@@ -1,5 +1,6 @@
 
-![](inmas.png){width=140x align=right}
+
+ <img width=150x align=right src="https://INMAS-Math.github.io/inmas.png">
 
 # Lessons learned from the INMAS program
 
