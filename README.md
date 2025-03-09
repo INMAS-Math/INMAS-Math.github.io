@@ -82,7 +82,13 @@ This section provides tips to help students have more impactful resumes.
 This part gives recommendations on how to provide feedback during one-on-one sessions.
 
 ## Technical Training
-This section describes the 4 workshops that were used during the INMAS technical training.
+This section describes the 4 technical workshops that were used during the INMAS technical training.
+Each workshop has an associated repository on GitHub which either contains a series of
+Jupyter notebooks or instructions.
+1. [Workshop #1](https://github.com/INMAS-Math/Workshop-V-01)
+2. [Workshop #2](https://github.com/INMAS-Math/Workshop-V-02)
+3. [Workshop #3](https://github.com/INMAS-Math/Workshop-V-03)
+4. [Workshop #4](https://github.com/INMAS-Math/Workshop-V-04)
  
 ## Internship Generation and Industry Outreach
 This captures the approach used to reach out to the industry and generate internships.
@@ -91,9 +97,10 @@ This captures the approach used to reach out to the industry and generate intern
 This provides general recommendations on how to match resumes to internships.
 
 ## Internship Progress Monitoring Including Final Report
+This section describes activities related to monitoring the progress of internships during the summer.
 
 ## Program assessment
-This part is on how to gather information that can be used to improve the program.
+This part is on how to gather evidence-based information that can be used to improve the program.
 
 ## Fundraising
 
