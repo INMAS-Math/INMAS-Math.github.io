@@ -1,7 +1,6 @@
 
 ![](inmas.png){width=140x align=right}
 
-
 # Lessons learned from the INMAS program
 
 # A short guide for institutions
@@ -11,7 +10,7 @@
 This document summarizes the lessons learned during the existence of the INMAS program.
 
 ## Node Outreach and Selection
-Successfully selecting the participating departments requires a minimum of elements
+Successfully selecting the participating departments requires a minimum of elements:
 1)	Existence of a local champion who will help promote the program internally,
 1)	Geographical considerations allowing for easy and economical transportation of participating students to
  the hub where the in-person technical training will take place,
@@ -52,13 +51,13 @@ the program can evaluate their availability to participate in the program.
 ## Program Advertisement
 The advertisement of the program is made through the following instruments:
 
-1) A website describing the program, its goals, activities, and calendar of events,
-1) Emails sent to the students enrolled at the participating departments describing the program
+1)	A website describing the program, its goals, activities, and calendar of events,
+1)	Emails sent to the students enrolled at the participating departments describing the program
  and how to apply,
-1) Informational sessions held over Zoom, inclusing time for Q&A. It is good for these sessions to invite
+1)	Informational sessions held over Zoom, inclusing time for Q&A. It is good for these sessions to invite
  students who participated in the program in previous years so that they can share
  their experience with prospective students,
-1) Optional organized on-site visits to the node presenting the program to the students and answering
+1)	Optional organized on-site visits to the node presenting the program to the students and answering
  their questions. As for previous point, former students are good ambassadors for the program, and should be
  invited to participate.
 
