@@ -12,11 +12,11 @@ This document summarizes the lessons learned during the existence of the INMAS p
 
 ## Node Outreach and Selection
 Successfully selecting the participating departments requires a minimum of elements:
-1)	Existence of a local champion who will help promote the program internally,
-1)	Geographical considerations allowing for easy and economical transportation of participating students to
+1.	Existence of a local champion who will help promote the program internally,
+1.	Geographical considerations allowing for easy and economical transportation of participating students to
  the hub where the in-person technical training will take place,
-1)	Ideally, the participation of more than a single student,
-1)	Financial support for the activities.
+1.	Ideally, the participation of more than a single student,
+1.	Financial support for the activities.
 
 ## Program Coordination
 The program is scheduled over the course of two semesters, with training sessions that start in October
@@ -31,8 +31,8 @@ the program can evaluate their availability to participate in the program.
 
 | Date | Activity| Description |
 | ---- | ----     | ---- |
-| September | Recruiting | Send email to nodes, information sessions |
-| end of September | Application Deadline | Last day to apply to program |
+| early September | Recruiting | Send email to nodes, information sessions |
+| late September | Application Deadline | Last day to apply to program |
 | mid-October | Welcome session | Present program activities and rules for participating (remote)|
 | late October | Technical workshop #1 | Fundamentals of Python programming (in-person)|
 | early November | Professional training A | Session on resume preparation (remote)|
@@ -42,7 +42,7 @@ the program can evaluate their availability to participate in the program.
 | early December | Deadline for final resume | Deadline to submit final resume |
 | mid-January | Technical workshop #3 | Machine learning (in-person)|
 | early February | Professional training B | Inverview preparation (remote)|
-| late February | Professioanl training C | Networking |
+| late February | Professional training C | Networking |
 | late February | Technical workshop #4 | Projects and team work (in-person)|
 | March | Professional training D | Internship guidelines (remote)|
 | mid-May | Interships start | Typical starting date of internships |
@@ -52,13 +52,13 @@ the program can evaluate their availability to participate in the program.
 ## Program Advertisement
 The advertisement of the program is made through the following instruments:
 
-1)	A website describing the program, its goals, activities, and calendar of events,
-1)	Emails sent to the students enrolled at the participating departments describing the program
+1.	A website describing the program, its goals, activities, and calendar of events,
+1.	Emails sent to the students enrolled at the participating departments describing the program
  and how to apply,
-1)	Informational sessions held over Zoom, inclusing time for Q&A. It is good for these sessions to invite
+1.	Informational sessions held over Zoom, inclusing time for Q&A. It is good for these sessions to invite
  students who participated in the program in previous years so that they can share
  their experience with prospective students,
-1)	Optional organized on-site visits to the node presenting the program to the students and answering
+1.	Optional organized on-site visits to the node presenting the program to the students and answering
  their questions. As for previous point, former students are good ambassadors for the program, and should be
  invited to participate.
 
