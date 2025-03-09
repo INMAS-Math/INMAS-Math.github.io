@@ -1,4 +1,11 @@
+
+![](inmas.png){width=140x align=right}
+
+
 # Lessons learned from the INMAS program
+
+# A short guide for institutions
+
 
 ## Introduction
 This document summarizes the lessons learned during the existence of the INMAS program.
