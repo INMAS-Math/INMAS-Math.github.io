@@ -52,19 +52,41 @@ It is hoped that these can serve to guide institutions desiring to complement
 their PhD program with some of the best practices developed during the
 5-year existence of the INMAS program.
 
-## Reources Needed
-### For the hub
-### For the nodes
+## Resources Needed
+This section summarizes the resources needed to run a program similar to INMAS.
+### Infrastructure
+The program relied on the following components to support its activities
+- The GitHub website where public repositories are used for storing the content
+of the training material. This version control system
+allows revisions to be made from one year to another. While Google Docs
+can be used to host the content, having a version control system is a major benefit.
+At the time of writing, GitHub is free.
+- GitHub can also be used to host static web pages, where the information about the program
+can be posted. This is free as well.
+- A work management software, similar to a customer relation software (CRM).
+We used mondays.com, which
+we configured for student applications, submission of internship proposals for companies,
+submission of internship interest from students, and keeping track of the different
+activites, outcomes, and correspondance.
+The annual subscription is about $1,500 per year for 5 seats.
+- A common storage for sharing internal memos, program assessments, and other
+material requiring access from many institutions. We used Google Docs, but other
+platforms can be suitable depending on the member affiliations.
+- Access a training room with internet access suitable for the technical training. 
 
-## Node Outreach and Selection
+### Personnel
+
+### Financial
+
+## Node Selection and Outreach
 It is believed that sharing and pooling resources between universities can greatly
 improve the chance of success of an internship program.
 
 Successfully selecting the participating departments requires a minimum of elements:
-1. Existence of a local champion who will help promote the program internally,
-1. Geographical considerations allowing for easy and economical transportation of participating students to
+1. Existence of a local champion who will help promote the program within the institution,
+1. Geographical considerations allowing for easy and affordable transportation of participating students to
  the hub where the in-person technical training will take place,
-1. Ideally, the participation of more than a single student,
+1. Ideally, the participation of more than a single student from each institution,
 1. Financial support for the activities.
 
 ## Program Coordination
@@ -135,10 +157,10 @@ This part gives recommendations on how to provide feedback during one-on-one ses
 This section describes the 4 technical workshops that were used during the INMAS technical training.
 Each workshop has an associated repository on GitHub which either contains a series of
 Jupyter notebooks or instructions.
-1. [Workshop #1](https://github.com/INMAS-Math/Workshop-V-01)
-2. [Workshop #2](https://github.com/INMAS-Math/Workshop-V-02)
-3. [Workshop #3](https://github.com/INMAS-Math/Workshop-V-03)
-4. [Workshop #4](https://github.com/INMAS-Math/Workshop-V-04)
+1. Python programming and its software stack. [Technical workshop #1](https://github.com/INMAS-Math/Workshop-V-01)
+2. Statistical methods. [Technical workshop #2](https://github.com/INMAS-Math/Workshop-V-02)
+3. Basics of machine learning. [Technical workshop #3](https://github.com/INMAS-Math/Workshop-V-03)
+4. Projects. [Technical workshop #4](https://github.com/INMAS-Math/Workshop-V-04)
  
 ## Internship Generation and Industry Outreach
 This captures the approach used to reach out to the industry and generate internships.
