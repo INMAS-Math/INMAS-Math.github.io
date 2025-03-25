@@ -119,7 +119,7 @@ looks as follows:
 | early February | Professional training B | Inverview preparation (remote)|
 | late February | Professional training C | Networking |
 | late February | Technical workshop #4 | Projects and team work (in-person)|
-| March | Professional training D | Internship guidelines (remote)|
+| April | Professional training D | Internship guidelines (remote)|
 | mid-May | Interships start | Typical starting date of internships |
 | late August | Internships end | Typical end date of internships |
 | September | Due date for internship reports | Summary of internship work |
