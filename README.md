@@ -50,7 +50,8 @@ valued and viable.
 This document summarizes the lessons learned during the existence of the INMAS program.
 It is hoped that these can serve to guide institutions desiring to complement
 their PhD program with some of the best practices developed during the
-5-year existence of the INMAS program.
+5-year existence of the INMAS program. During this time, INMAS trained close to 300
+students who were place in more than 100 different companies.
 
 ## Resources Needed
 This section summarizes the resources needed to run a program similar to INMAS.
@@ -72,7 +73,7 @@ The annual subscription is about $1,500 per year for 5 seats.
 - A common storage for sharing internal memos, program assessments, and other
 material requiring access from many institutions. We used Google Docs, but other
 platforms can be suitable depending on the member affiliations.
-- Access a training room with internet access suitable for the technical training. 
+- Access to a training room with internet access suitable to conduct the technical training. 
 
 ### Personnel
 
@@ -138,16 +139,31 @@ The advertisement of the program is made through the following instruments:
 
 ## Application Process
 This describes how we use Monday.com for the application process.
+Depending on the size of the pool of applicants, the application process can be coordinated
+using different tools. For a small pool of applicants, a simple email address with a form can be sufficient.
+In the first year of the program, we used a form on Google docs. For larger sizes, we found
+it more convenient to use an online workflow management software, so that all the information
+could be organized and carried through the year. We used Monday.com. 
+We advertized the program in September with a deadline for applications a few weeks later. 
+Selection decision was given in the following week and delivered through email.
 
 ## Participant Selection Process
 This section describes the criteria used for selecting the participating students.
+Our acceptance rate was around 50%. Priority was given to students who were more advanced
+in their PhD as first-year students' time is competing with passing comprehensive exams
+and selecting a thesis director. While having some programming experience is an asset,
+it was not a pre-requisite.
 
 ## Professional Training
 This describes the modules part of the professional training.
+
 ### Resume preparation
 This section provides tips to help students have more impactful resumes.
+
 ### Preparing for interviews
+
 ### Efficient networking
+
 ### Code of conduct and expectations for internship
 
 ## Mentoring
