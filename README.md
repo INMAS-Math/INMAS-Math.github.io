@@ -147,12 +147,42 @@ could be organized and carried through the year. We used Monday.com.
 We advertized the program in September with a deadline for applications a few weeks later. 
 Selection decision was given in the following week and delivered through email.
 
+---
+
+Student applications were managed using Monday.com (Monday).  This customer-relations management tool will appear again as it was also helpful for [internship progress monitoring: link subsection here?].  Using Monday's form feature, all student applications were instantly stored as a database item, easily viewable in aggregate and linked via the student's email to any future records associated with the student.
+
+In addition to demographic and contact information, the form asked students for:
+
+* Recent relevant coursework
+* Fields of interest in mathematics and statistics
+* Fields of interest outside mathematics and statistics
+* Level of programming experience
+* Past work experience outside of academia
+* Reason for participating in the INMAS program
+* Unofficial graduate transcript
+
+The application period ended in late September.
+
 ## Participant Selection Process
 This section describes the criteria used for selecting the participating students.
 Our acceptance rate was around 50%. Priority was given to students who were more advanced
 in their PhD as first-year students' time is competing with passing comprehensive exams
 and selecting a thesis director. While having some programming experience is an asset,
 it was not a pre-requisite.
+
+---
+
+Each branch of the program took between 40 and 50 people per year.  The number of applications varied based on the rigorousness of recruiting and on the nodes' involvement in recruiting.  We anticipated placing roughly 60% of our students each year regardless of funding model, and used this figure and the size of the grant allowance committed to student stipends [include value?] to calculate the size of the cohort.
+
+The program leads from each branch looked at the students one at a time.  While there were hard standards which the students needed to fill, efforts were made to evaluate each package from a human standpoint with consideration for individual circumstances.  The selection criteria were as follows:
+
+* **Expected graduation date and completion of qualifying exams.**  Students already holding masters' degrees were given heavy preference, able as they were to focus more completely on their summer work.  Students close to graduation were given slight preference over students early in their PhDs because their need to make connections was viewed as more urgent and because they tended to hold more relevant skills.
+* **GPA:** A GPA of [3.5?] was expected, showing capacity to commit to difficult work.
+* **Reason for participating:** Students who were interested in ultimately transitioning out of academia for their careers were given precedence over students interested in isolated experiences or students whose end goals were to end in academia.  Students who appeared more enthusiastic about the program were given precedence, with in-person discussions during recruiting visits taken into account.
+* **Potential impact of an internship:** Students whose field of study was generally not represented in BIG jobs (namely, [list here?]) were given precedence, as it was understood that the INMAS program could be more helpful to them.
+* **[Demographic information:** Efforts were made to balance the cohorts in terms of gender, ethnic background, and university of origin in order to facilitate a diverse environment.]
+
+Prior coding experience was *not* used as a criteria for candidacy.
 
 ## Professional Training
 This describes the modules part of the professional training.
