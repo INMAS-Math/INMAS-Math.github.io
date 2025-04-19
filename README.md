@@ -185,10 +185,19 @@ The program leads from each branch looked at the students one at a time.  While
 Prior coding experience was *not* used as a criteria for candidacy.
 
 ## Professional Training
-This describes the modules part of the professional training.
+Four dedicated "Career Preparation" sessions, given online and each roughly 90 minutes in duration, served as the backbone of the program's professional training.  The Career Prep sessions addressed the following topics:
+
+* Crafting resumes
+* Preparing for interviews
+* Networking
+* Internship expectations
+
+The information delivered in these sessions was then followed up on during the in-person workshops, which provided opportunities to communicate individually with students.  One-on-one follow-up via online meetings was also provided for individual students to help to bring them up to program standard.
 
 ### Resume preparation
-This section provides tips to help students have more impactful resumes.
+The Career Prep session on resumes established guidelines for a technical resume.  It was encouraged that the resume be two pages, information-dense, and that SEO be emphasized.  A challenge faced by the students, indeed that which the INMAS program aims to address, is the distance between the students' varied mathematical backgrounds and the generally computational spheres where they will see themselves employed.  Thus, an emphasis was placed on reframing more theoretical mathematical experience in terms of the student's active leadership; capacity to innovate; and, where it appeared, technical experience.
+
+The students submitted draft resumes before the second in-person workshop.  These underwent revisions during one-on-one sessions during the workshop, with a final version submitted three weeks afterward and in time for the dedicated application period.
 
 ### Preparing for interviews
 
