@@ -227,7 +227,7 @@ This provides general recommendations on how to match resumes to internships.
 This section describes activities related to monitoring the progress of internships during the summer.
 
 ## Program Assessment
-This part is on how to gather evidence-based information that can be used to improve the program.
+The INMAS team worked with an external evaluator throughout all five years of the project. The primary focus of the evaluation was to collect data to inform ongoing program improvements and to identify preliminary outcomes. The evaluator collected feedback from students about their experiences in the technical and professional development workshops and internship experiences. Feedback and perceptions were also solicited from company representatives and faculty and staff from participating institutions. Brief reports were shared and discussed with INMAS staff throughout the year. A final report was submitted at the end of each year. The reports and survey instruments are available [here](https://github.com/INMAS-Math/reports).
 
 ## Fundraising
 
