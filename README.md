@@ -7,20 +7,46 @@
 # A short guide for institutions
 
 ## Introduction
+This document is a summary of the lessons learned during the 5 years of existence
+of the Internship Network in the Mathematical Sciences. This NSF-funded program
+aimed at complementing the core education typically received by doctorate
+candidates studying in theoretical or applied mathematics with
+additional technical and professional training. These additional trainings
+were tailored to facilitate the integration of students to mathematical jobs in
+the industry.
+
+The program focused on three main areas of activities:
+1. Technical training modules focusing on Python programming, statistical methods,
+machine learning, and short open-ended projects. These intensive sessions were held
+during weekends to avoid competing with regular academic activities.
+2. Professional training on resume and interview preparation, networking,
+and effective communication. This activity included one-on-one sessions with mentors
+to help students improve these skills and provide advice on job search strategies. 
+These short sessions were held over Zoom during the evenings on week days.
+3. A summer internship job placement service tailored for the students enrolled in the program.
+Through its grant, INMAS was providing part of the remuneration
+to students taking an internship, therefore lowering the cost of participation for
+hosting companies, and making the proposition more attractive to them.
+
+The purpose of this document is to provide a roadmap to any institution
+desiring to implement a similar or scale-down version of the INMAS program.
+
+## Background
 The INMAS program aimed to address a key challenge in PhD education in the mathematical sciences.
 While employment for mathematicians in academia is decreasing or flat, the number of math
 PhDs produced has increased
-significantly in the past two decades. Thus most PhD graduates need to pivot towards
-business, industry or government (BIG) jobs. The INMAS approach was centered
+significantly in the past two decades. As a result, most PhD graduates need to pivot towards
+business, industry or government (BIG) for employment after graduation.
+The INMAS approach was centered
 at pivoting toward BIG during the degree rather than
 after graduation as a much more efficient deployment of the nation’s scientific and
 intellectual capital. The INMAS program explored a model to address
 the need to provide training and career experiences to graduate
 students that intentionally prepare them for meaningful career paths in BIG. The
 project aimed squarely at this unmet training need, while simultaneously strengthening the
-competitiveness of BIG organizations by providing a reliable source of talent.
+competitiveness of participating BIG organizations by providing a reliable source of talent.
 
-To accomplish its goals, INMAS created hub-and-spoke networks in two
+To accomplish its goals, INMAS created two hub-and-spoke networks in distinct
 geographic regions. The spokes connect the hub universities to nodes, which are nearby
 institutions having sizable PhD production. The network also included the Math Alliance. The
 hubs organized systematic training programs on both technical and professional skills,
@@ -29,7 +55,7 @@ Students were matched with internship
 projects, which were coordinated through the efforts of specialist Project Developers based at the
 hubs. The network structure enabled sharing of resources and best practices, and layed the
 groundwork for scaling up in future. The research impact of the project was substantial to the
-organizations engaged with the network, both companies and universities.
+organizations engaged with the network, for both companies and universities.
 Interns participated in the creation of new tools that lead to greater efficiency,
 producvity, and profitability for the companies.
 Additionally, a few of these problems arising from industry found
@@ -55,6 +81,11 @@ students who were place in more than 100 different companies.
 
 ## Resources Needed
 This section summarizes the resources needed to run a program similar to INMAS.
+In order to provide guidance to organization that might be resource limited,
+each item will be classified along three axes for costs and three for anticipated benefits.
+1) Core. We believe that resources in this category ought be be present to
+ensure a measurable impact on the life of the student.
+2) 
 ### Infrastructure
 The program relied on the following components to support its activities
 - The GitHub website where public repositories are used for storing the content
