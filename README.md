@@ -150,7 +150,7 @@ looks as follows:
 | early February | Professional training B | Inverview preparation (remote)|
 | late February | Professional training C | Networking |
 | late February | Technical workshop #4 | Projects and team work (in-person)|
-| March | Professional training D | Internship guidelines (remote)|
+| April | Professional training D | Internship guidelines (remote)|
 | mid-May | Interships start | Typical starting date of internships |
 | late August | Internships end | Typical end date of internships |
 | September | Due date for internship reports | Summary of internship work |
@@ -178,6 +178,22 @@ could be organized and carried through the year. We used Monday.com.
 We advertized the program in September with a deadline for applications a few weeks later. 
 Selection decision was given in the following week and delivered through email.
 
+---
+
+Student applications were managed using Monday.com (Monday).  This customer-relations management tool will appear again as it was also helpful for [internship progress monitoring: link subsection here?].  Using Monday's form feature, all student applications were instantly stored as a database item, easily viewable in aggregate and linked via the student's email to any future records associated with the student.
+
+In addition to demographic and contact information, the form asked students for:
+
+* Recent relevant coursework
+* Fields of interest in mathematics and statistics
+* Fields of interest outside mathematics and statistics
+* Level of programming experience
+* Past work experience outside of academia
+* Reason for participating in the INMAS program
+* Unofficial graduate transcript
+
+The application period ended in late September.
+
 ## Participant Selection Process
 This section describes the criteria used for selecting the participating students.
 Our acceptance rate was around 50%. Priority was given to students who were more advanced
@@ -185,11 +201,34 @@ in their PhD as first-year students' time is competing with passing comprehensiv
 and selecting a thesis director. While having some programming experience is an asset,
 it was not a pre-requisite.
 
+---
+
+Each branch of the program took between 40 and 50 people per year.  The number of applications varied based on the rigorousness of recruiting and on the nodes' involvement in recruiting.  We anticipated placing roughly 60% of our students each year regardless of funding model, and used this figure and the size of the grant allowance committed to student stipends [include value?] to calculate the size of the cohort.
+
+The program leads from each branch looked at the students one at a time.  While there were hard standards which the students needed to fill, efforts were made to evaluate each package from a human standpoint with consideration for individual circumstances.  The selection criteria were as follows:
+
+* **Expected graduation date and completion of qualifying exams.**  Students already holding masters' degrees were given heavy preference, able as they were to focus more completely on their summer work.  Students close to graduation were given slight preference over students early in their PhDs because their need to make connections was viewed as more urgent and because they tended to hold more relevant skills.
+* **GPA:** A GPA of [3.5?] was expected, showing capacity to commit to difficult work.
+* **Reason for participating:** Students who were interested in ultimately transitioning out of academia for their careers were given precedence over students interested in isolated experiences or students whose end goals were to end in academia.  Students who appeared more enthusiastic about the program were given precedence, with in-person discussions during recruiting visits taken into account.
+* **Potential impact of an internship:** Students whose field of study was generally not represented in BIG jobs (namely, [list here?]) were given precedence, as it was understood that the INMAS program could be more helpful to them.
+* **[Demographic information:** Efforts were made to balance the cohorts in terms of gender, ethnic background, and university of origin in order to facilitate a diverse environment.]
+
+Prior coding experience was *not* used as a criteria for candidacy.
+
 ## Professional Training
-This describes the modules part of the professional training.
+Four dedicated "Career Preparation" sessions, given online and each roughly 90 minutes in duration, served as the backbone of the program's professional training.  The Career Prep sessions addressed the following topics:
+
+* Crafting resumes
+* Preparing for interviews
+* Networking
+* Internship expectations
+
+The information delivered in these sessions was then followed up on during the in-person workshops, which provided opportunities to communicate individually with students.  One-on-one follow-up via online meetings was also provided for individual students to help to bring them up to program standard.
 
 ### Resume preparation
-This section provides tips to help students have more impactful resumes.
+The Career Prep session on resumes established guidelines for a technical resume.  It was encouraged that the resume be two pages, information-dense, and that SEO be emphasized.  A challenge faced by the students, indeed that which the INMAS program aims to address, is the distance between the students' varied mathematical backgrounds and the generally computational spheres where they will see themselves employed.  Thus, an emphasis was placed on reframing more theoretical mathematical experience in terms of the student's active leadership; capacity to innovate; and, where it appeared, technical experience.
+
+The students submitted draft resumes before the second in-person workshop.  These underwent revisions during one-on-one sessions during the workshop, with a final version submitted three weeks afterward and in time for the dedicated application period.
 
 ### Preparing for interviews
 
@@ -219,7 +258,7 @@ This provides general recommendations on how to match resumes to internships.
 This section describes activities related to monitoring the progress of internships during the summer.
 
 ## Program Assessment
-This part is on how to gather evidence-based information that can be used to improve the program.
+The INMAS team worked with an external evaluator throughout all five years of the project. The primary focus of the evaluation was to collect data to inform ongoing program improvements and to identify preliminary outcomes. The evaluator collected feedback from students about their experiences in the technical and professional development workshops and internship experiences. Feedback and perceptions were also solicited from company representatives and faculty and staff from participating institutions. Brief reports were shared and discussed with INMAS staff throughout the year. A final report was submitted at the end of each year. The reports and survey instruments are available [here](https://github.com/INMAS-Math/reports).
 
 ## Fundraising
 
