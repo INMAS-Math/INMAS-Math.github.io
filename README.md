@@ -4,47 +4,56 @@
 
 # Lessons learned from the INMAS program
 
-# A short guide for institutions
+# A short guide for academic institutions
 
 ## Introduction
 This document is a summary of the lessons learned during the 5 years of existence
-of the Internship Network in the Mathematical Sciences. This NSF-funded program
-aimed at complementing the core education typically received by doctorate
-candidates studying in theoretical or applied mathematics with
-additional technical and professional training. These additional trainings
+of the Internship Network in the Mathematical Sciences, which was
+in operation from 2020 to 2025.
+This NSF-funded program aimed at complementing the core education typically
+received by doctorate candidates studying in theoretical or applied mathematics.
+These additional professional and technical trainings
 were tailored to facilitate the integration of students to mathematical jobs in
-the industry.
+business, industry, or government (BIG), as the majority of them
+will end up in such careers.
 
-The program focused on three main areas of activities:
-1. Technical training modules focusing on Python programming, statistical methods,
-machine learning, and short open-ended projects. These intensive sessions were held
-during weekends to avoid competing with regular academic activities.
-2. Professional training on resume and interview preparation, networking,
-and effective communication. This activity included one-on-one sessions with mentors
-to help students improve these skills and provide advice on job search strategies. 
-These short sessions were held over Zoom during the evenings on week days.
-3. A summer internship job placement service tailored for the students enrolled in the program.
-Through its grant, INMAS was providing part of the remuneration
-to students taking an internship, therefore lowering the cost of participation for
-hosting companies, and making the proposition more attractive to them.
+From the students' perspective, the program focused on three main areas of activities:
+1. Developing and teaching technical training modules focusing
+on Python programming, statistical methods,
+machine learning, and short open-ended projects involving real-world data.
+Students were asked to participate
+in intensive in-person training sessions held during weekends to avoid competing with
+regular academic activities.
+2. Developing and teaching professional training modules on resume and interview preparation,
+networking, and effective communications.
+Short training workshops involving practive sessions were held over Zoom on weekday evenings.
+This activity also included one-on-one remote meetings with mentors for
+helping students improve their skills and providing advice and feedback on job search strategies. 
+3. Coordinating a summer internship job placement service tailored
+for the students enrolled in the program.
+Through its grant, INMAS also provided part of the remuneration
+to students obtaining an internship, therefore lowering the cost of participation for
+hosting companies and making the proposition more attractive to them.
 
-The purpose of this document is to provide a roadmap to any institution
-desiring to implement a similar or scale-down version of the INMAS program.
+The purpose of this document is to provide a roadmap or merely inspiration to any institution
+desiring to implement a similar or scaled-down version of such a program.
 
 ## Background
-The INMAS program aimed to address a key challenge in PhD education in the mathematical sciences.
+The INMAS program aimed to address a key challenge in
+PhD education in the mathematical sciences.
 While employment for mathematicians in academia is decreasing or flat, the number of math
-PhDs produced has increased
+PhDs produced in the US has increased
 significantly in the past two decades. As a result, most PhD graduates need to pivot towards
 business, industry or government (BIG) for employment after graduation.
-The INMAS approach was centered
-at pivoting toward BIG during the degree rather than
+The INMAS approach provides tools
+for pivoting toward BIG during the academic years rather than
 after graduation as a much more efficient deployment of the nation’s scientific and
-intellectual capital. The INMAS program explored a model to address
-the need to provide training and career experiences to graduate
+intellectual capital. The INMAS program explored a model to provide
+training and career experiences to graduate
 students that intentionally prepare them for meaningful career paths in BIG. The
 project aimed squarely at this unmet training need, while simultaneously strengthening the
-competitiveness of participating BIG organizations by providing a reliable source of talent.
+competitiveness of participating BIG organizations by providing them
+with a reliable source of talent.
 
 To accomplish its goals, INMAS created two hub-and-spoke networks in distinct
 geographic regions. The spokes connect the hub universities to nodes, which are nearby
@@ -52,13 +61,14 @@ institutions having sizable PhD production. The network also included the Math A
 hubs organized systematic training programs on both technical and professional skills,
 to better prepare students for productive industrial internships.
 Students were matched with internship
-projects, which were coordinated through the efforts of specialist Project Developers based at the
-hubs. The network structure enabled sharing of resources and best practices, and layed the
+projects, which were coordinated through the efforts of
+program coordinators based at the hubs.
+The network structure enabled sharing of resources and best practices, and layed the
 groundwork for scaling up in future. The research impact of the project was substantial to the
 organizations engaged with the network, for both companies and universities.
 Interns participated in the creation of new tools that lead to greater efficiency,
 producvity, and profitability for the companies.
-Additionally, a few of these problems arising from industry found
+Additionally, a few of the problems arising in the industry found
 their way back into the classroom, and initiated new research topics in mathematics and
 statistics.
 Educational and life impacts were felt as internships changed the life direction of
@@ -80,12 +90,39 @@ their PhD program with some of the best practices developed during the
 students who were place in more than 100 different companies.
 
 ## Resources Needed
-This section summarizes the resources needed to run a program similar to INMAS.
-In order to provide guidance to organization that might be resource limited,
-each item will be classified along three axes for costs and three for anticipated benefits.
-1) Core. We believe that resources in this category ought be be present to
-ensure a measurable impact on the life of the student.
-2) 
+This section summarizes the resources needed to run a program providing
+career assistance to graduate students in mathematics.
+As guidance to organizations that might be resource limited,
+each item will be classified along two axes: cost and anticipated benefits.
+
+While we haven't fully explored the possibility to leverage other available resources
+during the existence of the program, we believe that there exists significant
+synergies that can be exploited:
+- The needs identified by INMAS are not unique to mathematics. A very similar situation
+exists in other disciplines such as in Physics PhD education.
+Coordinating a program that would include multiple departments
+could be a way to leverage additional resources.
+- The INMAS program did not fully leverage the student services offered by the university,
+such as life design, student placement, and the like. Our assessment is that these
+services are in most part tailored for undergraduates, which form the majority of the population
+of the university. Working in partnership with these services
+and providing awareness of the graduate students needs
+to their personel would be an efficient way to offset some
+of the tasks of providing professional training and identifying internship opportunities.
+- Most of the technical training material used during the existence of the program
+was developed purposely for a targeted audience of PhD students in mathematics. 
+Keeping technical material up-to-date is particularly challenging given the 
+rapid advances taking place in areas such as machine learning and programming languages.
+Meanwhile, there are multiple reputable and publicly available sources of material
+now available on the internet. Leveraging and potentially contributing
+to these resources can be an efficient way to reduce the cost of providing
+targeted technical training. In addition, some components of the technical
+training is already available from computer science and mathematics departments.
+Developing and offering courses aimed at providing proper peripheral technical training,
+including projects using real-world data, would be another way to leverage
+existing resources at the university level.
+
+
 ### Infrastructure
 The program relied on the following components to support its activities
 - The GitHub website where public repositories are used for storing the content
@@ -233,6 +270,11 @@ The students submitted draft resumes before the second in-person workshop.  The
 ### Preparing for interviews
 
 ### Efficient networking
+A powerful skill required for finding a good position in the industry or academia is networking.
+INMAS provided training material and practice sessions for performing informational interviews and
+meaningful and engaging descriptions of oneselves. Removing the bias that networking
+is "schmoozing", and providing actionable tasks to students was a central part of
+this module.
 
 ### Code of conduct and expectations for internship
 
