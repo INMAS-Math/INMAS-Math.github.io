@@ -282,7 +282,7 @@ The advertisement of the program is made through the following instruments:
  their questions. As for previous point, former students are good ambassadors for the program, and should be
  invited to participate.
 
-## Application Process
+## Program Application Process
 Depending on the size of the pool of applicants, the application process can be coordinated
 using different tools. For a small pool of applicants, a simple email address with a form can be sufficient.
 In the first year of the program, we used a form on Google docs. For larger sizes, we found
@@ -364,16 +364,20 @@ These sessions addressed the following topics:
 * [Networking and Effective Communications](networking-and-effective-communications)
 * [Internship Expectations](internship-expectations)
 
-Each of these modules had follow-up actionable items to be performed by the student on their own.
-While none of these items were formally an assignment, subsequent discussions on the 
+Each of these modules had follow-up actionable items to be completed by the student on their own.
+As a strong emphasis of the program was to make the student
+take responsibility for their own career,
+none of these items were formally an assignment, but rather
+presented as SMART goals for them.
+Nonetheless, subsequent discussions on the 
 progress achieved on these tasks took place during the in-person workshops,
-or during one-on-one meetings with program coordinators over Zoom.
+and/or during one-on-one meetings with program coordinators over Zoom.
 
 ### Resume Preparation
 This session provided guidance on crafting a good technical resume.
 It was encouraged that the resume be preferably a single-page, information-dense,
 and search-engine optimizated (SEO) resume.
-A challenge faced by many students, and that the INMAS program aims to address,
+A challenge faced by many students, and that the INMAS program aimed to address,
 is the gap between the students' varied mathematical backgrounds
 and the diverse areas where they might see themselves employed.
 Thus, an emphasis was placed on reframing theoretical mathematical experience
@@ -384,14 +388,30 @@ These underwent revisions during one-on-one sessions during the workshop, or
 during subsequent one-on-one meetings over Zoom,
 with a final version submitted in time for the start of the internship application process.
 
+Students were encouraged to apply to as many external positions as they could on their own.
+For managing expectations, the concept of *best-fit* in contrast to *best student*
+was presented to the students in view of distinguishing the job application process
+from the selection process used for getting to a graduate school.
+
 ### Preparing for Interviews
+A professional module was developed to help students better prepare for interviews. This module
+contained basic preparation tips as well as practice sessions. The crafting and delivery
+of a good *elevator pitch* was an important component of this module, as this is a often
+the starting point of any conversation.
+
+Students were put in small teams and asked to get intel and prepare for ficticious interviews with
+selected companies. Practice sessions through Zoom were organized to allow students
+to participate in mock interviews and provide feedback to one another.
+These activities do not require a lot of efforts to organize and maintain and have a sizeable impact
+on the confidence of the students.
 
 ### Networking and Effective Communications
 A powerful skill required for finding a good position in the industry or academia is networking.
 INMAS provided training material and practice sessions for performing informational interviews and
 meaningful and engaging descriptions of oneselves. Removing the bias that networking
 is "schmoozing", and providing actionable tasks to students was a central part of
-this module.
+this module. The integration of tools such as LinkedIn for expanding one's network
+was presented and students were asked to expand their own network using these tools.
 
 ### Internship Expectations
 
@@ -428,7 +448,7 @@ This captures the approach used to reach out to the industry and generate intern
 ## Matchmaking and Resume Coordination
 This provides general recommendations on how to match resumes to internships.
 
-## Internship Progress Monitoring Including Final Report
+## Internship Progress Monitoring
 This section describes activities related to monitoring the progress of internships during the summer.
 
 ## Program Assessment
