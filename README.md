@@ -21,8 +21,10 @@ The program had three major components primarily focusing on students:
 1. Developing and teaching technical training modules covering
 basic Python programming, statistical methods,
 machine learning, and short open-ended projects involving real-world data.
-These intensive in-person training sessions were held during weekends to avoid
+These intensive training sessions were held during weekends to avoid
 competing with regular academic activities, as the program was mostly extra-curricular.
+These workshops were held in-person except for the first year, when they were held
+remotely due to COVID-19.
 2. Developing and teaching professional training modules on resume and interview preparation,
 networking, team work, and effective communications.
 Short training workshops involving practice sessions were held over Zoom on weekday evenings.
@@ -241,7 +243,7 @@ These tasks consisted of:
 - [Program Advertisement](program-advertisement)
 - [Program Application Process](program-application-process)
 - [Participant Selection Process](participant-selection-process)
-- [Professional Development Training](professional-development-training)
+- [Professional Development](professional-development)
 - [Mentoring](mentoring)
 - [Technical Training](technical-training)
 - [Industry Outreach and Internship Generation](industry-outreach-and-internship-generation)
@@ -274,7 +276,7 @@ The INMAS program's schedule ran over the course of two semesters, with training
 and ending in March, followed by a possible internship taking place during the summer.
 Training sessions were typically run outside normal school hours to minimize the
 interference with regular activities such as classes and TA/RA duties.
-Professional development training sessions
+Professional development sessions
 were typically between one and two hours long and were run remotely during weekday evenings.
 Except for the first year of the program, during which COVID-19 happened,
 technical training sessions were delivered as in-person workshops held over weekends,
@@ -294,16 +296,16 @@ A typical annual calendar of events looks as follows:
 | late September | Application Deadline | Last day to apply to program |
 | mid-October | Welcome session | Present program activities and rules for participating (remote)|
 | late October | Technical workshop #1 | Fundamentals of Python programming (in-person)|
-| early November | Professional development training A | Resume preparation (remote)|
+| early November | Professional development A | Resume preparation (remote)|
 | mid November | Deadline to provide draft of resume | Last day to submit draft of resume |
 | all November | Mentoring | One-on-one meetings to provide feedback on resume and career goals (remote) |
 | late November | Technical workshop #2 | Statistical methods (in-person)|
 | early December | Deadline for final resume | Deadline to submit final resume |
 | mid-January | Technical workshop #3 | Machine learning (in-person)|
-| early February | Professional development training B | Preparing for interviews (remote)|
-| late February | Professional development training C | Networking and effective communications |
+| early February | Professional development B | Preparing for interviews (remote)|
+| late February | Professional development C | Networking and effective communications |
 | late February | Technical workshop #4 | Projects and team work (in-person)|
-| April | Professional development training D | Internship guidelines (remote)|
+| April | Professional development D | Internship guidelines (remote)|
 | mid-May | Internships start | Typical starting date of internships |
 | late August | Internships end | Typical end date of internships |
 | September | Due date for internship reports | Summary of internship work |
@@ -401,8 +403,8 @@ more diverse and creative environment.
 
 While desirable, prior coding experience was **not** a required criteria for submitting an application.
 
-### Professional Development Training
-Four dedicated professional develpoment training sessions, given online and each roughly 90 minutes in duration,
+### Professional Development
+Four dedicated professional development sessions, given online and each roughly 90 minutes in duration,
 served as the backbone of the program's professional skills which are
 sometimes wrongly referred to as 'soft skills'.
 These sessions addressed the following topics:
