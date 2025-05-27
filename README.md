@@ -93,7 +93,8 @@ Additionally, a few of the problems arising in the industry found
 their way back into the classroom, and initiated new research topics in mathematics and
 statistics.
 
-Educational and life impacts were felt as the training and participation to
+Educational and life impacts were felt as the technical and personal
+development training and the participation to
 industrial internships changed the life direction of
 many graduate students. As measured by our internal assessments,
 one of the largest impact the program had on students is an increase
@@ -272,9 +273,11 @@ approach to lowering costs and pooling resources between nearby universities.
 The INMAS program's schedule ran over the course of two semesters, with training sessions starting in October
 and ending in March, followed by a possible internship taking place during the summer.
 Training sessions were typically run outside normal school hours to minimize the
-interference with regular activities such as classes and TA/RA duties. Professional training sessions
+interference with regular activities such as classes and TA/RA duties.
+Professional training sessions
 were typically between one and two hours long and were run remotely during weekday evenings.
-Technical training sessions were delivered as workshops held over weekends,
+Except for the first year of the program, during which COVID-19 happened,
+technical training sessions were delivered as in-person workshops held over weekends,
 starting at dinner time on Friday night and ending at mid-day on Sunday.
 This allowed non-local students to travel to and back from the hub.
 Having students from many different universities in the same location
@@ -594,7 +597,11 @@ The following information was requested:
 - Any other information
 
 A redacted version of this information in which contact names were removed was shared with the students.
-We typically had more internships than the number of available students.
+We typically had more internships than the number of available students. While some employers chose 8 weeks
+for the duration of the internships, the majority of them preferred 10 to 12 weeks. Many companies had
+grants from US agencies that restricted them to employ US citizens only. Since COVID-19, a large
+fraction of startup companies have a work model that is 100% remote. THis allowed us to look for internships
+in non-regional areas.
 
 ### Matchmaking and Resume Coordination
 While all students were asked to apply to internship positions of their choice posted on the internet,
@@ -619,7 +626,19 @@ be paid. Special attention had to be made for international students who
 require a work permit for the summer.
 
 ### Internship Progress Monitoring
-This section describes activities related to monitoring the progress of internships during the summer.
+This section describes how the monitoring of the progress of internships was done during the summer.
+One of the requirements of the internships was that the student had to write a short report
+describing the work completed during the summer. These reports were given by the student to the host
+who had the opportunity to redact any proprietary material. Once signed and released, these reports
+were kept by INMAS for grant audit purposes. During the summer, regular emails were sent by the
+program coordinators to the students to ensure that everything was going smoothly. All INMAS staff
+was available to resolve any issue that occurred during the summer. These were rare events
+and involved life issues regularly encountered in a normal work environment.
+
+The stipend from INMAS to the student was made in two installments, one at the beginning of the
+internship, and the other at the end, conditional to having received a final report. Final reports
+were typically 5-10 pages, written in either LaTeX or Microsoft Word.
+
 
 ### Program Assessment
 The INMAS team worked with an external evaluator throughout all five years of the project.
