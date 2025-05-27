@@ -197,11 +197,11 @@ Coordinating a program that would include multiple departments
 could be a way to leverage additional resources in the same institution.
 - The INMAS program did not fully leverage student services typically offered by universities,
 such as life design, student placement, and the like. Our assessment is that these
-services are in most part tailored for undergraduates, which form the majority of the population
+services are in most part tailored for undergraduates, who form the majority of the population
 of the university. Working in partnership with these services
 and providing awareness of the graduate students' needs
 to the personnel involved would be an efficient way to offset some
-of the tasks involving professional training and the identification and
+of the tasks involving professional development training and the identification and
 coordination of internship opportunities.
 - Most of the technical training material used during the existence of the program
 was developed purposely for a targeted audience of PhD students in mathematics. 
@@ -218,14 +218,14 @@ peripheral technical training,
 including projects using real-world data, would be another way to leverage
 existing resources at the university level.
 - We believe that professional associations could play an active role in stewarding a program aimed at
-its students members. Few associations have already put together parts and pieces of such
+its student members. Few associations have already put together parts and pieces of such
 a program, but fall short of fully addressing the needs identified by INMAS. Building a critical mass
 of participants from academia and BIG organizations under the umbrella of a professional association
 could be a promising way to address the current challenge. 
 - While the cost-sharing of internships provided a definite advantage in securing positions for the students,
  one can imagine a program where internships are entirely subsidized by hosting companies. This would require
-developing lasting relation with specific organizations, and integrating with their talent pipelines.
-The target companies for internship will be discussed below in section on
+developing lasting relations with specific organizations, and integrating with their talent pipelines.
+The target companies for internships will be discussed below in section on
 [Industry Outreach and Internship Generation](industry-outreach-and-internship-generation).
 
 ## Tasks and Activities
@@ -241,7 +241,7 @@ These tasks consisted of:
 - [Program Advertisement](program-advertisement)
 - [Program Application Process](program-application-process)
 - [Participant Selection Process](participant-selection-process)
-- [Professional Training](professional-training)
+- [Professional Development Training](professional-development-training)
 - [Mentoring](mentoring)
 - [Technical Training](technical-training)
 - [Industry Outreach and Internship Generation](industry-outreach-and-internship-generation)
@@ -274,7 +274,7 @@ The INMAS program's schedule ran over the course of two semesters, with training
 and ending in March, followed by a possible internship taking place during the summer.
 Training sessions were typically run outside normal school hours to minimize the
 interference with regular activities such as classes and TA/RA duties.
-Professional training sessions
+Professional development training sessions
 were typically between one and two hours long and were run remotely during weekday evenings.
 Except for the first year of the program, during which COVID-19 happened,
 technical training sessions were delivered as in-person workshops held over weekends,
@@ -294,16 +294,16 @@ A typical annual calendar of events looks as follows:
 | late September | Application Deadline | Last day to apply to program |
 | mid-October | Welcome session | Present program activities and rules for participating (remote)|
 | late October | Technical workshop #1 | Fundamentals of Python programming (in-person)|
-| early November | Professional training A | Resume preparation (remote)|
+| early November | Professional development training A | Resume preparation (remote)|
 | mid November | Deadline to provide draft of resume | Last day to submit draft of resume |
 | all November | Mentoring | One-on-one meetings to provide feedback on resume and career goals (remote) |
 | late November | Technical workshop #2 | Statistical methods (in-person)|
 | early December | Deadline for final resume | Deadline to submit final resume |
 | mid-January | Technical workshop #3 | Machine learning (in-person)|
-| early February | Professional training B | Preparing for interviews (remote)|
-| late February | Professional training C | Networking and effective communications |
+| early February | Professional development training B | Preparing for interviews (remote)|
+| late February | Professional development training C | Networking and effective communications |
 | late February | Technical workshop #4 | Projects and team work (in-person)|
-| April | Professional training D | Internship guidelines (remote)|
+| April | Professional development training D | Internship guidelines (remote)|
 | mid-May | Internships start | Typical starting date of internships |
 | late August | Internships end | Typical end date of internships |
 | September | Due date for internship reports | Summary of internship work |
@@ -401,8 +401,8 @@ more diverse and creative environment.
 
 While desirable, prior coding experience was **not** a required criteria for submitting an application.
 
-### Professional Training
-Four dedicated professional training sessions, given online and each roughly 90 minutes in duration,
+### Professional Development Training
+Four dedicated professional develpoment training sessions, given online and each roughly 90 minutes in duration,
 served as the backbone of the program's professional skills which are
 sometimes wrongly referred to as 'soft skills'.
 These sessions addressed the following topics:
