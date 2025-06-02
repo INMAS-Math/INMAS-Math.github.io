@@ -117,7 +117,7 @@ This document summarizes the lessons learned during the existence of the INMAS p
 It is hoped that these lessons can serve to guide institutions desiring to complement
 their PhD program with some of the best practices developed during the
 5-year existence of the INMAS program. During this time, INMAS trained close to 300
-students who were place in more than 100 different companies.
+students who were placed in more than 100 different companies.
 
 ## Resources Needed
 This section summarizes the resources needed to run a program providing
