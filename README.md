@@ -238,8 +238,8 @@ the multiple activities conducted by the INMAS team,
 and listed them
 in chronological order as they take place in the annual calendar.
 These tasks consisted of:
-- [Node Selection and Outreach](node-selection-and-outreach)
-- [Program Coordination](program-coordination)
+- [Node Selection and Outreach](#node-selection-and-outreach)
+- [Program Coordination](#program-coordination)
 - [Program Advertisement](program-advertisement)
 - [Program Application Process](program-application-process)
 - [Participant Selection Process](participant-selection-process)
