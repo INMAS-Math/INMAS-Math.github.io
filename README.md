@@ -123,11 +123,11 @@ students who were placed in more than 100 different companies.
 This section summarizes the resources needed to run a program providing
 career assistance to graduate students in mathematics. It has the
 following components:
-- [Software and Physical Infrastructure](software-and-physical-infrastructure)
-- [Personnel](personnel)
-- [Financial](financial)
+- [Software and Physical Infrastructure](#software-and-physical-infrastructure)
+- [Personnel](#personnel)
+- [Financial](#financial)
 
-An assessment of [Potential Additional Resources](potential-additional-resources)
+An assessment of [Potential Additional Resources](#potential-additional-resources)
 is also given.
 
 ### Software and Physical Infrastructure
@@ -228,7 +228,7 @@ could be a promising way to address the current challenge.
  one can imagine a program where internships are entirely subsidized by hosting companies. This would require
 developing lasting relations with specific organizations, and integrating with their talent pipelines.
 The target companies for internships will be discussed below in section on
-[Industry Outreach and Internship Generation](industry-outreach-and-internship-generation).
+[Industry Outreach and Internship Generation](#industry-outreach-and-internship-generation).
 
 ## Tasks and Activities
 Maintaining a yearly program such as INMAS requires the dedication of resources aimed at
@@ -240,16 +240,16 @@ in chronological order as they take place in the annual calendar.
 These tasks consisted of:
 - [Node Selection and Outreach](#node-selection-and-outreach)
 - [Program Coordination](#program-coordination)
-- [Program Advertisement](program-advertisement)
-- [Program Application Process](program-application-process)
-- [Participant Selection Process](participant-selection-process)
-- [Professional Development](professional-development)
-- [Mentoring](mentoring)
-- [Technical Training](technical-training)
-- [Industry Outreach and Internship Generation](industry-outreach-and-internship-generation)
-- [Matchmaking and Resume Coordination](matchmaking-and-resume-coordination)
-- [Internship Progress Monitoring](internship-progress-monitoring)
-- [Program Assessment](program-assessment)
+- [Program Advertisement](#program-advertisement)
+- [Program Application Process](#program-application-process)
+- [Participant Selection Process](#participant-selection-process)
+- [Professional Development](#professional-development)
+- [Mentoring](#mentoring)
+- [Technical Training](#technical-training)
+- [Industry Outreach and Internship Generation](#industry-outreach-and-internship-generation)
+- [Matchmaking and Resume Coordination](#matchmaking-and-resume-coordination)
+- [Internship Progress Monitoring](#internship-progress-monitoring)
+- [Program Assessment](#program-assessment)
 
 
 ### Node Selection and Outreach
@@ -344,8 +344,8 @@ If program is integrated within the regular curriculum of the institution, the a
 process would simply leverage existing systems.
 
 This workflow management tool was also used for
-[internship application process](internship-application-process) and
-[internship progress monitoring](internship-progress-monitoring).
+[internship application process](#internship-application-process) and
+[internship progress monitoring](#internship-progress-monitoring).
 Using Monday's form feature, all student application data were instantly stored in a database,
 easily viewable in aggregate form and linked via the student's email to any future
 records associated with the student.
@@ -409,10 +409,10 @@ served as the backbone of the program's professional skills which are
 sometimes wrongly referred to as 'soft skills'.
 These sessions addressed the following topics:
 
-* [Resume Preparation](resume-preparation)
-* [Preparing for Interviews](preparing-for-interviews)
-* [Networking and Effective Communications](networking-and-effective-communications)
-* [Internship Expectations](internship-expectations)
+* [Resume Preparation](#resume-preparation)
+* [Preparing for Interviews](#preparing-for-interviews)
+* [Networking and Effective Communications](#networking-and-effective-communications)
+* [Internship Expectations](#internship-expectations)
 
 Each of the three first modules had follow-up actionable items to be completed by the student on their own.
 As a strong emphasis of the program was to make the student
@@ -501,15 +501,15 @@ integrating them in the regular training material.
 This section describes the four technical workshops that were used during the INMAS technical training.
 Each workshop has an associated repository on GitHub which contains
 a series of Jupyter notebooks, instructions, and solutions.
-1. [Python Programming and its Software Stack](python-programming-and-its-software-stack)
+1. [Python Programming and its Software Stack](#python-programming-and-its-software-stack)
 is a short introduction to the Python programming language and its most popular
 packages for scientific computation (NumPy, Pandas, Matplotlib, Seaborn, etc.).
-2. [Statistical methods](statistical-methods)
+2. [Statistical methods](#statistical-methods)
 is building on the previous module to clean and analyze data using
 statistical methods such as simple and multiple regressions, and hypotheses testing.
-3. [Basics of machine learning](basis-of-machine-learning)
+3. [Basics of machine learning](#basis-of-machine-learning)
 is a short introduction to many common methods in machine learning.
-4. [Projects](projects)
+4. [Projects](#projects)
 are open-ended projects focusing on team work and building on the previous modules.
  
 #### Python Programming and its Software Stack
