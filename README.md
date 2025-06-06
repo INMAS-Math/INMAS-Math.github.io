@@ -3,6 +3,6 @@
 
 # A Short Guide for Academic Institutions
 
-[Lessons Learned from the INMAS Program](lessons_learned.md)
-[How to ](howto.md)
+- [Lessons Learned from the INMAS Program](lessons_learned.md)
+- [How to ](howto.md)
 
