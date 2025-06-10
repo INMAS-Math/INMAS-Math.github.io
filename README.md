@@ -58,5 +58,6 @@ desiring to implement a similar or scaled-down version of a program addressing t
 - [INMAS Implementation](inmas.md)
 	- [Resources needed](inmas.md/#resource-needed)
 	- [Tasks and Activities](inmas.md/#tasks-and-activities)
+	- [Outcomes](inmas.md/#outcomes)
 - [Lessons Learned from the INMAS Program](lessons_learned.md)
-- [How to start an internship program in your department](howto.md)
+- [How to Start an Internship Program in your Department](howto.md)

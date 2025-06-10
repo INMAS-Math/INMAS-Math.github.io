@@ -537,3 +537,5 @@ Brief reports were shared and discussed with INMAS staff throughout the year.
 A final report was submitted at the end of each year.
 The reports and survey instruments are available [here](https://github.com/INMAS-Math/reports).
 
+## Outcomes
+
