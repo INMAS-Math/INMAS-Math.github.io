@@ -202,16 +202,16 @@ Date | Activity| Description |
 | early December | Deadline for final resume | Deadline to submit final resume |
 | mid-January | Technical workshop #3 | Machine learning (in-person)|
 | early February | Professional development B | Preparing for interviews (remote)|
-| late February | Professional development C | Networking and effective communications |
-| late February | Technical workshop #4 | Projects and team work (in-person)|
+| late February | Professional development C | Networking and effective communication (remote) |
+| late February | Technical workshop #4 | Projects and teamwork (in-person)|
 | April | Professional development D | Internship guidelines (remote)|
-| mid-May | Internships start | Typical starting date of internships |
-| late August | Internships end | Typical end date of internships |
+| mid-May | Internships start | Typical start date for internships |
+| late August | Internships end | Typical end date for internships |
 | September | Due date for internship reports | Summary of internship work |
 
 #### Alternative
 An in-house program, based at a single institution, could easily integrate the
-training workshop material into the students<92> regular schedule, for example
+training workshop material into the students' regular schedule, for example
 by running a weekly extended seminar with learning and lab time combined. Such
 a method would eliminate the costs associated with travel, lodging, and meals
 that INMAS incurred from running the workshops over weekends at a central
@@ -221,41 +221,38 @@ responsible for delivering a specific module of the training at the multiple
 institutions.
 
 ### Program Advertisement
-The advertisement of the program is made through the following instruments:
+The program was advertised through the following instruments:
 
-1. A website describing the program, its goals, activities, and calendar of events.
-1. Emails sent to all graduate students enrolled at the participating departments describing
-the program and how to apply.
-1. Informational sessions held over Zoom, including time for Q&A.  It is good
-for these sessions to invite students who participated in the program in
-previous years so that they can share their experience with prospective
-students.  We observed that the majority of questions asked during these
-sessions were addressed to these students.
-1. Optional organized on-site visits to the node presenting the program to the
-students and answering their questions. As for previous point, former students
-are good ambassadors for the program, and should be invited to participate.
+1. A website describing the program and its goals, activities, and calendar of events.
+1. Emails to all graduate students in participating departments, to describe
+the program and explain how to apply.
+1. Information sessions held online, with plenty of time for Q&A. Program alumni (students who had participated in
+previous years) were invited to participate too, so that they could share their experiences with prospective
+students.  The majority of questions asked during the information 
+sessions were addressed to the alumni.
+1. Optional on-site visits by INMAS personnel to the node departments, in order to publicize the program to 
+students and run Q&A sessions. As in the online sessions, former students
+proved to be good ambassadors for the program.
 
 ### Program Application Process
-Depending on the size of the pool of applicants, the application process can be
+Depending on the number of applicants for such a program, the application process could be
 coordinated using different tools. For a small pool of applicants, a simple
-email address with a form can be sufficient. In the first year of the program,
-we used a form on Google docs. For larger sizes, we found it more convenient to
-use an online workflow management software, so that all the information could
-be organized and carried through the year. We used a workflow management tool
-from Monday.com (Monday). We advertised the program in September with a
-deadline for applications a few weeks later. Selection decision was given in
-the following week and delivered through email. If program is integrated within
-the regular curriculum of the institution, the application process would simply
-leverage existing systems.
+email address with a webform might suffice; in the first year of our program,
+we used a Google form. For larger cohorts, we found it more convenient to
+utilize online workflow management software from Monday.com ("Monday"), which enabled us to 
+gather and organize student information and then carry it through the year's activities. 
+If a program were integrated within
+the regular curriculum of an institution, the application process could simply
+leverage existing record-keeping systems.
 
-This workflow management tool was also used for
+We used the workflow management tool also for the 
 [internship application process](#internship-application-process) and
 [internship progress monitoring](#internship-progress-monitoring).
 Using Monday's form feature, all student application data were instantly stored in a database,
 easily viewable in aggregate form and linked via the student's email to any future
 records associated with the student.
 
-In addition to demographic and contact information, the form asked students for:
+In addition to demographic and contact information, the form asked students to describe:
 
 * Recent relevant coursework
 * Fields of interest in mathematics and statistics
@@ -264,8 +261,6 @@ In addition to demographic and contact information, the form asked students for:
 * Past work experience outside academia
 * Reason for participating in the INMAS program
 * Unofficial graduate transcript
-
-The application period ended in late September.
 
 ### Participant Selection Process
 This section describes the criteria used for selecting the participating students.
