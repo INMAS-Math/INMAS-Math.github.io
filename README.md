@@ -53,7 +53,7 @@ of developing and providing role models for the next generation of mathematician
 
 The purpose of this document is to provide a detailed road map
 and/or inspiration to institutions
-desiring to implement a similar or scaled-down version of a program]
+desiring to implement a similar or scaled-down version of a program
 addressing the needs identified by INMAS.
 
 ## Table of Contents
