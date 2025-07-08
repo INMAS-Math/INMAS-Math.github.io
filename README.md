@@ -59,9 +59,9 @@ addressing the needs identified by INMAS.
 ## Table of Contents
 
 - [Background](background.md)
-- [INMAS Implementation](inmas.md)
-	- [Resources needed](inmas.md/#resource-needed)
-	- [Tasks and Activities](inmas.md/#tasks-and-activities)
-	- [Outcomes](inmas.md/#outcomes)
+- [INMAS Implementation](resources.md)
+	- [Resources needed](resources.md/#resource-needed)
+	- [Tasks and Activities](resources.md/#tasks-and-activities)
+	- [Outcomes](resources.md/#outcomes)
 - [Lessons Learned from the INMAS Program](lessons_learned.md)
 - [How to Start an Internship Program in your Department](howto.md)
