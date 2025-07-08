@@ -2,6 +2,12 @@
 <img width=150x align=right src="https://INMAS-Math.github.io/inmas.png">
 
 # Lessons Learned from the INMAS Program
+This document summarizes the lessons learned during the existence of the INMAS program.
+It is hoped that these lessons can serve to guide institutions desiring to complement
+their PhD program with some of the best practices developed during the five-year run
+of the INMAS program.
+During this time, INMAS trained close to 340 students,
+who were placed in more than 220 different companies.
 
 What key things we observed
 

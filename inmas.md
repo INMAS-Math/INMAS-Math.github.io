@@ -11,40 +11,43 @@ following components:
 - [Financial](#financial)
 
 An assessment of [Potential Additional Resources](#potential-additional-resources)
-is also given.
+is also given. Of course, a smaller program serving a single institution
+could operate with fewer resources.
 
 ### Software and Physical Infrastructure
 The program relied on the following infrastructure components to support its activities:
-- The GitHub website where public repositories are used for storing the contents
-of the training material. This version control system
+- The GitHub website where public repositories are used for storing
+the training material. This version control system
 allows revisions and corrections to be made as the material evolves. While Google Docs
 can be used to host similar contents, having a version control system brings valuable benefits
 when the material needs updates, and when multiple contributors are involved.
-At the time of writing, GitHub is free but contributors will need to be
+GitHub is free to use a the time of writing, although contributors will need to be
 familiar with the technology before setting it up and using it.
 - A web-hosting service to advertise the program and its activities.
 GitHub can also be used to host static web pages, where timely information about the program
 can be posted. At the time of writing, this hosting service is free as well.
-Any other web-hosting services, including departmental pages, can be adequate.
-- A workflow management software, similar to a customer relation software (CRM).
-We used mondays.com, which
+Any other web-hosting services, including departmental pages, can be adequate too.
+- Workflow management software, similar to a customer relation software (CRM).
+INMAS used monday.com, which
 we configured for student applications, submission of internship proposals for companies,
-submission of internship interest from students, and keeping track of the different
-activities, outcomes, and correspondence.
-The annual academic cost for a subscription is about $1,500 per year for 5 seats.
+submission of internship interest from students, and tracking of the different
+activities, outcomes, and email correspondence.
+The annual cost for an academic subscription is about $1,500 per year for 5 users
+(which sufficed for INMAS leadership and program coordinators).
 If the number of students being tracked
-is less than about 20, we believe that a shared spreadsheet could be adequate.
-- A common file storage for sharing internal memos, program assessments, and other
-material requiring access from diverse institutions. We used Google Docs, but other
+were less than about 20, in a smaller program,
+then shared spreadsheets could be adequate for record keeping and program administration.
+- Shared file storage for internal memos, program assessments, and other
+material requiring access from diverse institutions. INMAS used Google Docs, but other
 data sharing platforms can be suitable depending on the members' affiliations and
 IT infrastructure.
-- Access to a training room with internet access suitable to conduct regular technical training. 
-Training space was provided by the hub universities.
+- Classrooms and/or meeting rooms that are configured for effective group work.
+These training spaces used for the technical training workshops were provided by the hub universities.
 
 ### Personnel
-To answer to a demand of up to 90 students per year,
+To meet the demand of up to 90 students per year,
 the INMAS team was composed of two (part-time) PIs, two part-time program coordinators,
-a few on-demand instructors and teaching assistants.
+and on-demand instructors and teaching assistants.
 The time commitment from PIs, including grant management, consisted
 of a few hours per week in
 addition to the overall program coordination and full participation in all training activities.
@@ -54,73 +57,84 @@ and sending hundreds of resumes once the participating companies were identified
 The student mentorship role was assumed jointly between PIs and program
 coordinators. PIs and program coordinators also participated in the development and delivery
 of the training material, primarily on projects and Python programming.
-The statistical methods and machine-learning training modules were primarily assumed by
+The statistical methods and machine-learning training modules were primarily developed by
 additional instructors.
 
 ### Financial
-A good fraction of the INMAS budget was used for providing a fraction
-of the students' remuneration for the INMAS-sponsored internships.
+A good portion of the INMAS budget went to cost-sharing
+the students' remuneration for the INMAS-sponsored internships.
 During the last year of the program (2025),
-students were paid $30 per hour, of which half came from the INMAS grant, and the other half
-from the hosting organizations.
-As internships were typically around 10 to 12 weeks of 40 hours per week,
-about $7k of INMAS budget had to be allocated per student per summer.
-For a modest program of 20 internships per year, one would need an annual budget of about $150k.
+interns were paid $15/hour or more by the host companies
+while INMAS matched that amount in the form of a lunp-sum stipend.
+The internships were typically around 10 to 12 weeks at 40 hours per week,
+so roughly $7k of INMAS funding was allocated per student per summer.
+For a program of 20 internships per year, one would need an annual budget
+of about $150k for stipends.
 
-The other big-ticket item in INMAS budget was for providing salaries for the program coordinators, PIs,
-instructors, teaching assistants, and consultant for program assessment.
-Finally, travel, lodging, and meals for students participating in the training sessions from remote nodes
-constituted another important, although less significant part of the budget.
+The other big-ticket items in the INMAS budget were
+salaries for the program coordinators, payments to the instructors,
+teaching assistants, external consultant for program assessment, and
+teaching reductions for the PIs.
+Finally, reimbursements for travel, lodging, and meals for students
+participating in the training sessions
+constituted another important component of the budget.
 
 ### Potential Additional Resources
-While we haven't fully explored the possibility of maximally leveraging some
-of the additional resources typically available in a graduate institution,
-we believe that there exists significant potential synergies that can be exploited:
+We believe that significant potential synergies iwith existing resources
+could be exploited by people looking to set up a program at their institution:
 - The needs identified by INMAS are not unique to mathematics. A very similar situation
-exists in other disciplines such as in Physics PhD education, for example.
-Coordinating a program that would include multiple departments
-could be a way to leverage additional resources in the same institution.
+exists in other disciplines, such as physics for example.
+Coordinating a program that includes multiple departments
+could be a way to leverage additional resources in a single institution.
+ 
 - The INMAS program did not fully leverage student services typically offered by universities,
 such as life design, student placement, and the like. Our assessment is that these
-services are in most part tailored for undergraduates, who form the majority of the population
+services are generally tailored for undergraduates, who form the majority of the population
 of the university. Working in partnership with these services
-and providing awareness of the graduate students' needs
-to the personnel involved would be an efficient way to offset some
-of the tasks involving professional development training and the identification and
-coordination of internship opportunities.
-- Most of the technical training material used during the existence of the program
-was developed purposely for a targeted audience of PhD students in mathematics. 
-Keeping technical material up-to-date can be particularly challenging given the
-rapid advances taking place in areas such as machine learning and programming languages.
-Meanwhile, there are multiple reputable and publicly available sources of material
-now available on the internet on these topics. Leveraging and potentially contributing
-to these resources can be an efficient way to reduce the effort of providing
+and providing the personnel involved with awareness of graduate students' needs
+might be an efficient way to offset some
+of the tasks involving professional development training and
+identifying and coordinating internship opportunities.
+ 
+- Most of the technical training material used during the INMAS program was
+  developed purposely for a targeted audience of PhD students in mathematics.
+But keeping such technical material up-to-date can be particularly challenging
+given the rapid advances in fields such as machine learning and programming
+languages, not to mention artificial intelligence. Meanwhile, there are
+multiple reputable and publicly available sources of training material
+available online for these topics. Leveraging and potentially contributing to
+these resources can be an efficient way to reduce the effort of providing
 targeted technical training. In addition, some components of the technical
-training material is already available from local computer science
-and some mathematics departments from the same institution.
-Developing and offering an extended curriculum aimed at providing a more
-peripheral technical training,
+training material are already available from computer science and some
+mathematics departments, albeit usually in the form of semester-long courses
+that require more time than students have available. Developing and offering an
+extended curriculum aimed at providing a more peripheral technical training[1],
 including projects using real-world data, would be another way to leverage
 existing resources at the university level.
-- We believe that professional associations could play an active role in stewarding a program aimed at
-its student members. Few associations have already put together parts and pieces of such
-a program, but fall short of fully addressing the needs identified by INMAS. Building a critical mass
-of participants from academia and BIG organizations under the umbrella of a professional association
-could be a promising way to address the current challenge. 
-- While the cost-sharing of internships provided a definite advantage in securing positions for the students,
- one can imagine a program where internships are entirely subsidized by hosting companies. This would require
-developing lasting relations with specific organizations, and integrating with their talent pipelines.
+
+- We believe that professional associations could play an active role in
+  stewarding a program aimed at their student members. A few associations have
+put together parts and pieces of such a program, but the available components
+fall short of fully addressing the needs identified by INMAS. Building a
+critical mass of participants from academia and BIG organizations under the
+umbrella of a professional association could be a promising way to address the
+current challenge.
+
+- While the cost-sharing of internships provided a definite advantage in
+  securing positions for the students, one can imagine a program where
+internships are entirely paid by hosting companies. This would likely require
+developing lasting relations with specific organizations, and integrating with
+their talent pipelines. The target companies for internships will be discussed
+below in section on Industry Outreach and Internship Generation.
 The target companies for internships will be discussed below in section on
 [Industry Outreach and Internship Generation](#industry-outreach-and-internship-generation).
 
 ## Tasks and Activities
-Maintaining a yearly program such as INMAS requires the dedication of resources aimed at
-accomplishing specific tasks and activities.
-Here, we have broken down
-the multiple activities conducted by the INMAS team,
-and listed them
-in chronological order as they take place in the annual calendar.
-These tasks consisted of:
+Operating a year-round program such as INMAS requires careful scheduling of
+resources aimed at accomplishing specific tasks and activities. Below, we break
+down the activities conducted by the INMAS team and list them in chronological
+order as they take place in the annual calendar.
+
 - [Node Selection and Outreach](#node-selection-and-outreach)
 - [Program Coordination](#program-coordination)
 - [Program Advertisement](#program-advertisement)
@@ -136,44 +150,46 @@ These tasks consisted of:
 
 
 ### Node Selection and Outreach
-One of the premises of the INMAS program was that
-sharing and pooling resources between universities can greatly
-improve the chance of success of a program aimed at
-facilitating the transition of graduate students to BIG careers.
-Successfully recruiting the participation of departments
-at nearby institutions requires a minimum number of elements:
-1. The existence of a local champion who helps promote the program within the institution,
-1. Geographical considerations allowing for easy and affordable transportation of participating students to
- the hub where in-person technical training will take place,
-1. Sizable population of graduate students to recruit from,
-1. Ideally, the participation of more than a single student per year from each institution,
-1. Financial support for activities involving their students.
+One of the premises of the INMAS program was that sharing and pooling resources
+between universities could greatly improve the chances of success for a program
+aimed at facilitating the transition of graduate students to BIG careers.
+Successfully recruiting and training student participants from a department at
+another institution relies on several specific elements: 
+1. The existence of a local champion to help promote the program within the institution.
+1. A sizable population of graduate students to recruit from.
+1. The participation of more than one student per year from each institution, in order to create a
+cohort that supports learning.
+1. Easy and affordable transportation to get
+participating students to the hub institution where in-person technical training takes place.
+1. Financial support for activities involving students from the institution.
 
-The INMAS model provided the infrastructure, the staff, and most of the financial support.
-For future models with limited resources, the contribution of personnel from the
-participating organizations, potentially through rotating roles, could be a creative
-approach to lowering costs and pooling resources between nearby universities.
+The INMAS model provided the infrastructure, staff, and most of the financial
+support. For future models with more limited resources, the contributions of
+personnel from the participating organizations, potentially through rotating
+roles, could offer a creative approach to lowering costs and pooling resources
+between nearby universities.
 
 ### Program Coordination
-The INMAS program's schedule ran over the course of two semesters, with training sessions starting in October
-and ending in March, followed by a possible internship taking place during the summer.
-Training sessions were typically run outside normal school hours to minimize the
-interference with regular activities such as classes and TA/RA duties.
-Professional development sessions
-were typically between one and two hours long and were run remotely during weekday evenings.
-Except for the first year of the program, during which COVID-19 happened,
-technical training sessions were delivered as in-person workshops held over weekends,
-starting at dinner time on Friday night and ending at mid-day on Sunday.
-This allowed non-local students to travel to and back from the hub.
-Having students from many different universities in the same location
-was also highlighted as an additional networking opportunity for the students. 
+The annual INMAS schedule ran over the course of two semesters, with training
+sessions starting in October and ending in March, followed by an internship
+(for up to two-thirds of participating students) that took place during the
+summer. Training sessions were typically run outside normal school hours to
+minimize the interference with regular activities such as classes and TA/RA
+duties. Professional development sessions were usually 1-2 hours long and were
+run remotely during weekday evenings. Except for the first year of the program,
+during which COVID-19 happened, technical training workshops were generally
+delivered in-person over weekends, starting at dinner time on Friday night and
+ending at midday on Sunday. This schedule allowed non-local students to travel
+to and from the hub. Bringing students from many different universities
+together in the same location also enabled networking opportunities for the
+students, an opportunity we explicitly encouraged them to take advantage of.
 
-A calendar of activities was created and then advertised through the website.
-This is done so that students applying to
-the program could evaluate their full availability required to participate in the program.
-A typical annual calendar of events looks as follows:
+A calendar of participant activities was advertised through the website, so
+that students applying to the program could evaluate their full availability
+required to participate in the program. A typical annual calendar looks as
+follows:
 
-| Date | Activity| Description |
+Date | Activity| Description |
 | ---- | ----     | ---- |
 | early September | Recruiting | Send email to nodes, information sessions |
 | late September | Application Deadline | Last day to apply to program |
@@ -193,38 +209,44 @@ A typical annual calendar of events looks as follows:
 | late August | Internships end | Typical end date of internships |
 | September | Due date for internship reports | Summary of internship work |
 
-An in-house version of the program could easily integrate the training into the regular
-schedule. This would eliminate the costs associated with travel, lodging, and meals
-that resulted from running the workshops over weekends. If multiple
-institutions are partnering for creating an INMAS-like program, one can imagine
-having traveling instructors for the year, each responsible for a specific module
-of the training.
+#### Alternative
+An in-house program, based at a single institution, could easily integrate the
+training workshop material into the students<92> regular schedule, for example
+by running a weekly extended seminar with learning and lab time combined. Such
+a method would eliminate the costs associated with travel, lodging, and meals
+that INMAS incurred from running the workshops over weekends at a central
+location. Or, if multiple institutions partnered to create an INMAS-like
+program, one could imagine having traveling instructors for the year, each
+responsible for delivering a specific module of the training at the multiple
+institutions.
 
 ### Program Advertisement
 The advertisement of the program is made through the following instruments:
 
 1. A website describing the program, its goals, activities, and calendar of events.
-1. Emails sent to all graduate students enrolled at the participating departments describing the program
- and how to apply.
-1. Informational sessions held over Zoom, including time for Q&A. It is good for these sessions to invite
- students who participated in the program in previous years so that they can share
- their experience with prospective students.
- We observed that the majority of questions asked during these sessions were addressed to these students.
-1. Optional organized on-site visits to the node presenting the program to the students and answering
- their questions. As for previous point, former students are good ambassadors for the program, and should be
- invited to participate.
+1. Emails sent to all graduate students enrolled at the participating departments describing
+the program and how to apply.
+1. Informational sessions held over Zoom, including time for Q&A.  It is good
+for these sessions to invite students who participated in the program in
+previous years so that they can share their experience with prospective
+students.  We observed that the majority of questions asked during these
+sessions were addressed to these students.
+1. Optional organized on-site visits to the node presenting the program to the
+students and answering their questions. As for previous point, former students
+are good ambassadors for the program, and should be invited to participate.
 
 ### Program Application Process
-Depending on the size of the pool of applicants, the application process can be coordinated
-using different tools. For a small pool of applicants, a simple email address with a form can be sufficient.
-In the first year of the program, we used a form on Google docs. For larger sizes, we found
-it more convenient to use an online workflow management software, so that all the information
-could be organized and carried through the year. We used a workflow management tool
-from Monday.com (Monday). We advertised the program in September with a deadline
-for applications a few weeks later. 
-Selection decision was given in the following week and delivered through email.
-If program is integrated within the regular curriculum of the institution, the application
-process would simply leverage existing systems.
+Depending on the size of the pool of applicants, the application process can be
+coordinated using different tools. For a small pool of applicants, a simple
+email address with a form can be sufficient. In the first year of the program,
+we used a form on Google docs. For larger sizes, we found it more convenient to
+use an online workflow management software, so that all the information could
+be organized and carried through the year. We used a workflow management tool
+from Monday.com (Monday). We advertised the program in September with a
+deadline for applications a few weeks later. Selection decision was given in
+the following week and delivered through email. If program is integrated within
+the regular curriculum of the institution, the application process would simply
+leverage existing systems.
 
 This workflow management tool was also used for
 [internship application process](#internship-application-process) and
