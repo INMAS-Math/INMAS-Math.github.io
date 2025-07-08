@@ -405,19 +405,19 @@ a series of Jupyter notebooks, instructions, and solutions.
 is a short introduction to the Python programming language and its most popular
 packages for scientific computation (NumPy, Pandas, Matplotlib, Seaborn, etc.).
 2. [Statistical methods](#statistical-methods)
-is building on the previous module to clean and analyze data using
-statistical methods such as simple and multiple regressions, and hypotheses testing.
+builds on the previous module, training students to clean and analyze data using
+statistical methods such as simple and multiple regression, logistic regression, and hypothesis testing.
 3. [Basics of machine learning](#basis-of-machine-learning)
-is a short introduction to many common methods in machine learning.
+provides a short introduction to many common techniques in machine learning, including neural networks.
 4. [Projects](#projects)
-are open-ended projects focusing on team work and building on the previous modules.
+are open-ended projects that focus on team work and allow students to apply the skills gained in previous modules.
  
 #### Python Programming and its Software Stack
-One of the challenges of the INMAS program is to provide training to
-a population of students having very diverse levels of proficiency in programming.
+One of the challenges of the INMAS program was to provide training to
+a population of students entering with diverse levels of proficiency in programming.
 To address this challenge, multiple paths covering the material were elaborated,
-some of which covering the basics for beginners, and others having more challenging modules
-to cater to our most advanced students. We anticipated all students
+some of which covered the basics for beginners, while others offered more challenging modules
+to cater to our most advanced students. We aimed for all students
 to be able to code in procedural Python using popular scientific modules
 such as NumPy, Pandas, MatplotLib, and Seaborn. Object-oriented programming
 was an optional module.
@@ -426,65 +426,66 @@ The material for this workshop consisted mainly of Jupyter notebooks and is avai
  
 #### Statistical Methods
 This module consists of classroom material in PDF format
-and associated Jupyter notebooks for practicing the concepts just
-learned. The material covered basic concepts in statistics such as data wrangling,
+with associated Jupyter notebooks for practicing the concepts. 
+The material and notebooks cover basic concepts in statistics such as data wrangling,
 simple and multiple linear regressions, and logistic regressions.
-The material for this workshop is available here:
+The workshop material and files are available here:
 [Technical Workshop #2](https://github.com/INMAS-Math/Workshop-V-02)
 
 #### Basics of Machine Learning
-This relatively dense workshop covered a lots of topics in a short period.
+This relatively dense workshop covered a lot of topics in a short period.
 These include foundational concepts, principal-component analysis,
 clustering, gradient boosting, natural-language processing,
 deep learning, and large-language models.
 The material for this workshop consisted of classroom-style presentations
-in PDF format and Jupyter notebook. THey are available here:
+in PDF format and accompanying Jupyter notebooks. They are available here:
 [Technical Workshop #3](https://github.com/INMAS-Math/Workshop-V-03).
  
 #### Projects
-This training was by far the preferred module for the students. It involved
-open-ended projects similar to those found on the Kagle website.
-While previous modules were performed in small teams, the work
+This training workshop was by far the preferred module for students. It involved
+open-ended projects similar to those found on the Kaggle website.
+Previous modules were addressed in small teams, but the work
 involved in going though the notebooks still remained fairly individual.
-In contrast, this training required partitioning the task
-among team members in order to complete it in the allocated time. 
-A presentation of the results was made by each team at the end of the workshop.
-The material for this workshop consisted of a short description
-of the problem to solve and possibly where to find the data.
+In contrast, the project training required teams to partition the tasks
+among members in order to achieve results in the allocated time. 
+Presentations were made by each team at the conclusion of the workshop.
+The material for this workshop consisted of a short problem description
+and possibly some links to data.
 A description of some of these tasks is available here:
 [Technical Workshop #4](https://github.com/INMAS-Math/Workshop-V-04).
 
 ### Industry Outreach and Internship Generation
-Outreach to BIG organizations targeted mostly industrial organizations
+Outreach to BIG organizations targeted mostly industrial organizations,
 due to their significant relative number and the breadth of opportunities provided.
-In general, we found that it was difficult to integrate into the hiring process of large organizations
-such as government agencies or industries having a large number of employees. This is due to the
-fact that large organizations tend to already have a well-structured and regulated talent pipeline with which
-it it difficult to establish lasting connections. This pipeline often includes a company-wide internship
-program and on-campus recruiting activities, both of which are typically targeting undergraduate students.
+
+We found it difficult to integrate into the hiring process of large organizations
+such as government agencies or companies having a large number of employees. 
+Large organizations typically already have well-structured and regulated talent pipelines with which
+it is difficult to establish lasting connections. Their pipelines often include a company-wide internship
+program and on-campus recruiting activities, both of which usually target undergraduate students.
 Moreover, the recruiting personnel in these organizations
 are often technical personnel assigned on a rotation basis, resulting in high personnel turnover,
 and adding to the challenge of establishing lasting relations.
 
-We found that reaching out to smaller-size companies was more successful for the following reasons:
-- Many small organizations do not have a large HR department, nor a formal internship program. The offering
-from INMAS was serving as a low-cost recruiting service providing vetted and well-trained students. 
+Reaching out to smaller-size companies was more successful, for the following reasons:
+- Many small organizations have neither an HR department nor a formal internship program. INMAS could offer them 
+a low-cost recruiting service, providing vetted and well-trained students. 
 - Smaller organizations are more inclined to accept external financial support.
-Being already receiving a grant from SBIR, these organizations are familiar and dependent on external funding.
-- Startup companies are in dire need of technical talent for ensuring their mid-term subsistence.
+Many were already receiving federal funding through SBIR, and so were familiar with and dependent on external funding.
+- Startup companies are often in dire need of technical talent for ensuring their mid-term subsistence.
 Many startups are spin-offs from research or academic groups and have PhD-educated individuals on staff
-who are excellent mentors for interns.
+who make excellent mentors for interns.
 
-As a result, the INMAS program used public information on grants from the
-Small Business Administration of the US government received by local companies.
-The research topic, company location, and size of the grant was used to make a list of potential hosts.
-Cold networking email letters were sent to these companies which proposed a short introductory
+As a result, the INMAS program relied extensively on public information about SBIR grants from the
+Small Business Administration (SBA) of the US government.
+The research topic, company location, and size of the grant were used to create a list of potential hosts.
+Cold-call emails were sent to these companies, introducing our program and proposing a short introductory
 meeting over Zoom for interested parties.
 The conversion rate of these cold contacts was approximately 10%, and a majority
 of the firms with whom we met ended up submitting an internship proposal.
-Cost of participation is free, and there is no obligation from either party. 
+The contacts emphasized that participation with the program is free, and that there is no obligation on either party. 
 
-Interested companies were asked to submit an internship proposal on a web form hosted on Monday.
+Interested companies were asked to submit an internship proposal on a web form hosted on Monday.com.
 The following information was requested:
 - Title of proposal
 - A short description of the company and the work to be performed
@@ -498,53 +499,56 @@ The following information was requested:
 - Desirable skills
 - Any other information
 
-A redacted version of this information in which contact names were removed was shared with the students.
-We typically had more internships than the number of available students. While some employers chose 8 weeks
-for the duration of the internships, the majority of them preferred 10 to 12 weeks. Many companies had
-grants from US agencies that restricted them to employ US citizens only. Since COVID-19, a large
-fraction of startup companies have a work model that is 100% remote. THis allowed us to look for internships
-in non-regional areas.
+A redacted version of this information (in which contact names were removed) was shared with the students.
+We were typically able to develop more internship proposals than the number of available students. While some employers chose 8 weeks
+for the duration of the internships, the majority preferred 10-12 weeks. 
+
+Note that many small companies have
+grants from US agencies that restrict them to employing US citizens only. Since the COVID pandemic, a large
+fraction of startup companies follow a 100% remote work model, which enabled us to seek internships beyond 
+the regions of our node institutions.
 
 ### Matchmaking and Resume Coordination
-While all students were asked to apply to internship positions of their choice posted on the internet,
-INMAS also provided a web portal to the participating students that listed the internship positions entered by
-interested companies as described above. Our portal offered these positions
-exclusively to our students, which presented both an opportunity and a challenge. By dealing with a small
-pool of qualified applicants, the probability of finding a good match for the position was high, but at the
-same time, the probability of having top candidates receiving multiple offers was also high. This
-race condition had to be managed carefully to avoid wasting the resources of organizations at
-interviewing candidates that would end up turning down an offer.
+All students were encouraged to apply independently to internship positions that they found through networking connections or online ads. But the success rate of online applications is low. Students primarily obtained internship positions through INMAS. 
 
-Students interested in a position filled an interest application on the same portal, specifying
-the position they were interested in, and the level of interest (low, medium, high) they had for that position.
-A bundle of resumes was selected by the program coordinators among the students
-having expressed a high level of interest
-and sent to the companies, who were instructed to contact the candidates directly,
-if interested. At this point, the interaction was completely in the hands of the hiring organizations.
-Similarly, the interview process was left entirely to the hosting organizations.
-If an offer was made, the program coordinator would take the necessary steps
+We provided a web portal that listed internship proposals at host companies identified by INMAS, as described above. Our portal offered these positions
+exclusively to students in the program, which presented both an opportunity and a challenge. By dealing with a small
+pool of qualified applicants, the probability of finding a good match for the position was high, but at the
+same time, the probability of having top candidates receive multiple offers was also high. This
+talent-race condition had to be managed carefully to avoid wasting the resources of organizations that might 
+interview candidates who would end up turning down the offer.
+
+Students interested in a position filled out an interest application on the portal, specifying
+the position they were interested in, and their level of interest (low, medium, high).
+A bundle of resumes was selected by the program coordinators from among the students
+expressing a high level of interest, 
+and sent to the company, which would then contact the candidates directly,
+if interested. From this point, the interaction is completely in the hands of the hiring organizations.
+Similarly, the interview process was left entirely to the hosting organizations. 
+
+If a host made an internship offer to a student, then the program coordinator would take the necessary steps
 to establish the proper legal and financial paperwork required for the intern to
-be paid. Special attention had to be made for international students who
-require a work permit for the summer.
+be paid. The cost of the internship would be cost-shared by the company and the INMAS, each paying the student separately. 
+Special care was taken with international students, who require work authorization (generally CPT from their university's international office) in order to work off-campus for the summer.
 
 ### Internship Progress Monitoring
-This section describes how the monitoring of the progress of internships was done during the summer.
-One of the requirements of the internships was that the student had to write a short report
-describing the work completed during the summer. These reports were given by the student to the host
-who had the opportunity to redact any proprietary material. Once signed and released, these reports
+This section describes how the monitoring of internship progress was carried out during the summer.
+One of the program requirements was that the student had to write a short report
+describing the work completed during the summer. These reports were given first by the student to the host,
+who had the opportunity to redact proprietary material. Once signed and released, these reports
 were kept by INMAS for grant audit purposes. During the summer, regular emails were sent by the
-program coordinators to the students to ensure that everything was going smoothly. All INMAS staff
-was available to resolve any issue that occurred during the summer. These were rare events
-and involved life issues regularly encountered in a normal work environment.
+program coordinators to the students to ensure that everything was going smoothly. INMAS staff
+were available to resolve any issues that occurred during the summer; these tended to be rare events 
+involving life issues that are are well recognized in normal work environments.
 
-The stipend from INMAS to the student was made in two installments, one at the beginning of the
-internship, and the other at the end, conditional to having received a final report. Final reports
-were typically 5-10 pages, written in either LaTeX or Microsoft Word.
+The stipend from INMAS to the student was paid in two installments, one at the beginning of the
+internship, and the other at the end, with the second payment conditional on receipt of the intern's final report. Final reports
+were typically 5-10 pages, written in LaTeX or Microsoft Word.
 
 
 ### Program Assessment
-The INMAS team worked with an external evaluator throughout all five years of the project.
-The primary focus of the evaluation was to collect data to inform ongoing program improvements
+The INMAS team worked with an external evaluator throughout the five years of the project.
+The primary focus of the evaluation was to collect data that informed ongoing program improvements,
 and to identify preliminary outcomes.
 The evaluator collected feedback from students about their experiences in the technical and
 professional development workshops and internship experiences.
