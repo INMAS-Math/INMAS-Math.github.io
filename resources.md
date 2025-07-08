@@ -202,7 +202,7 @@ Date | Activity| Description |
 | early December | Deadline for final resume | Deadline to submit final resume |
 | mid-January | Technical workshop #3 | Machine learning (in-person)|
 | early February | Professional development B | Preparing for interviews (remote)|
-| late February | Professional development C | Networking and effective communication (remote) |
+| late February | Professional development C | Networking and effective communications (remote) |
 | late February | Technical workshop #4 | Projects and teamwork (in-person)|
 | April | Professional development D | Internship guidelines (remote)|
 | mid-May | Internships start | Typical start date for internships |
@@ -264,49 +264,48 @@ In addition to demographic and contact information, the form asked students to d
 
 ### Participant Selection Process
 This section describes the criteria used for selecting the participating students.
+
 Priority was given to students who were more advanced
-in their PhD as first-year students' time is competing with passing comprehensive exams
-and selecting a thesis director. While having some programming experience is desirable,
-it was not a pre-requisite.
+in their PhD program, because early-year students are focussed on coursework and qualifying exams, 
+and also they are generally not thinking ahead seriously to career options. 
 
-Each branch of the program accepted between 40 and 50 people per year.
-Our acceptance rate was around 50%.
-The number of applications per institution varied based on the nodes' involvement in recruiting.
-We anticipated placing roughly 60% of accepted students in
-INMAS-sponsored internships each year,
-and used this figure to calculate a cohort size commensurate with our budget.
+A modest amount of prior programming experience was required e.g. a one-semester undergraduate course. 
 
-While there were hard standards which the students needed to satisfy,
+The number of applications per institution varied each year, based on the nodes' commitment to recruiting. 
+Our acceptance rate was around 50-70%, which resulted in 
+each branch of the program accepting between 35 to 50 students per year into the training program.
+We anticipated placing roughly 60% of these accepted students into
+INMAS-sponsored summer internships, with the remainder of each cohort either finding their own internships or getting summer TA or RA positions. 
+
+While there were some hard criteria which the students needed to satisfy,
 efforts were made to evaluate each application from a human standpoint
 with consideration for individual circumstances.
 Selection criteria included the following:
 
 * **Expected graduation date and completion of qualifying exams.**
-Students already holding masters' degrees were given preference, able as they were to focus more
-completely on their summer work.
+Students already holding masters' degrees were given preference, as they would be able to focus more
+completely on the training and summer internship.
 Students close to graduation were also given preference over students early in their PhDs,
-exhibiting more maturity and a sense of urgency.
+as they could be expected to exhibit more maturity and a sense of urgency about their future career.
 * **GPA:**
 A GPA of 3.5 of higher was expected, showing capacity to commit to difficult work.
 * **Reason for participating:**
-Students with a strong interest in transitioning to BIG careers
-were given precedence over students interested in isolated experiences.
+Students with a strong interest in transitioning to Business, Industry and Governement (BIG) careers
+were given precedence over students simply interested in an isolated one-off experience.
 Enthusiastic and curious students were given precedence, as evaluated during
 in-person discussions while recruiting.
 * **Potential impact of an internship:**
-Students in immediate fields of study with less direct applicability to BIG careers
+Students in fields of study with less direct applicability to BIG careers
 were generally given precedence, as the INMAS program could be more helpful to them.
 * **Demographic information:**
-Efforts were made to balance the cohorts in terms of gender,
-ethnic background, and university of origin in order to create a
-more diverse and creative environment.
-
-While desirable, prior coding experience was **not** a required criteria for submitting an application.
+Efforts were made to develop diverse application pools in terms of gender,
+ethnic background, and university of origin, leading to a
+more diverse and creative learning environment in the program. 
 
 ### Professional Development
 Four dedicated professional development sessions, given online and each roughly 90 minutes in duration,
-served as the backbone of the program's professional skills which are
-sometimes wrongly referred to as 'soft skills'.
+served as the backbone of the program's training on professional skills (which are
+sometimes wrongly referred to as 'soft skills').
 These sessions addressed the following topics:
 
 * [Resume Preparation](#resume-preparation)
@@ -314,87 +313,88 @@ These sessions addressed the following topics:
 * [Networking and Effective Communications](#networking-and-effective-communications)
 * [Internship Expectations](#internship-expectations)
 
-Each of the three first modules had follow-up actionable items to be completed by the student on their own.
-As a strong emphasis of the program was to make the student
-take responsibility for their own career,
-none of these items were formally an assignment, but rather
+Each of the three first modules included follow-up actionable items to be completed by the student.
+As a strong emphasis of the program was to make the students
+take responsibility for their own careers,
+none of these follow-up items were collected or graded, but they were rather
 presented as SMART goals to them.
 Nonetheless, subsequent discussions on the 
 progress achieved on these tasks took place during the in-person workshops,
-and/or during one-on-one meetings with program coordinators over Zoom.
+and/or during one-on-one online meetings with program coordinators.
 
 #### Resume Preparation
 This session provided guidance on crafting a good technical resume.
-It was encouraged that the resume be preferably a single-page, information-dense,
+It was encouraged that the document be a single-page, information-dense,
 and search-engine optimized (SEO) resume.
-A challenge faced by many students, and that the INMAS program aimed to address,
-is the gap between the students' varied mathematical backgrounds
+A challenge faced by many students, and which the INMAS program aimed to address,
+is the gap between the students' mathematical backgrounds
 and the diverse areas where they might see themselves employed.
-Thus, an emphasis was placed on re-framing theoretical mathematical experience
-in terms of the student's leadership, capacity to innovate, and technical experience, where applicable.
+Thus, an emphasis was placed on re-framing the student's theoretical mathematical experience
+in terms of their leadership skills, capacity to innovate, and technical experience.
 
 Students submitted draft resumes before the second in-person workshop.
-These underwent revisions during one-on-one sessions during the workshop, or
-during subsequent one-on-one meetings over Zoom,
+These drafts underwent revisions during one-on-one sessions interspersed with the workshop, or
+during subsequent one-on-one meetings online,
 with a final version submitted in time for the start of the internship application process.
 
 Students were encouraged to apply to as many external positions as they could on their own.
-For managing expectations, the concept of *best-fit* in contrast to *best student*
-was presented to the students in view of distinguishing the job application process
-from the selection process used for getting to a graduate school.
+To help manage their expectations, the concept of *best-fit* in contrast to *best student*
+was presented to them, as a way of distinguishing the job application process
+from the selection process used for getting into graduate school.
+
 We found that students really enjoyed receiving feedback on their resume and were extremely
 receptive to the feedback received, often requesting a follow-up meeting.
 
 #### Preparing for Interviews
 A professional module was developed to help students better prepare for interviews. This module
 contains basic preparation tips as well as practice sessions. The crafting and delivery
-of a good *elevator pitch* is an important component of this module, as this is a often
-the starting point of any conversation.
+of a good *elevator pitch* is an important component of this module, as this quick overview is a often
+the starting point of any conversation with an employer.
 
 Students were put in small teams and asked to get intel and prepare for fictitious interviews with
 selected companies. Practice sessions through Zoom were organized to allow students
 to participate in mock interviews and provide feedback to one another.
-These activities do not require a lot of efforts to organize and maintain and have a sizable impact
-on the confidence of the students.
+These practice activities do not require a lot of effort to organize and have considerable impact
+on students' confidence and readiness to interview.
 
 #### Networking and Effective Communications
-A powerful skill required for finding a good position in the industry or academia is networking.
+A powerful skill required for finding a good position in industry or academia is networking.
 INMAS provided training material and practice sessions for performing informational interviews and
-meaningful and engaging descriptions of one selves. Removing the bias that networking
-is "schmoozing", and providing actionable tasks to students was a central part of
+meaningful and engaging descriptions of oneself. Dispelling the perception that networking
+is "schmoozing", and providing actionable networking tasks to student participants, were the central goals of
 this module. The integration of tools such as LinkedIn for expanding one's network
 was presented and students were asked to expand their own network using these tools through SMART goals.
 
 #### Internship Expectations
-This training went over some fundamental rules regarding corporate America that
+This training covered some fundamental rules regarding corporate America that
 students might not have been exposed to while in an academic environment.
 Honesty, punctuality, team work, intellectual property and proprietary data
 were part of the topics explored during these sessions.
 Finally, a series of situational vignettes were presented and discussed
-with the group. Some of these situations represented cases that we had in the past
+with the group. Some of these situations represented cases we encountered in earlier cohorts, 
 and were an excellent way to raise the students' awareness of their ethical
-and legal obligations towards their hosts for the summer.  
+and legal obligations towards their summer host organizations.  
 
 ### Mentoring
 While representing a serious time commitment, the mentoring activity had a strong impact
 on students and on the program.
-These 30-minute one-on-one Zoom sessions we scheduled through *calendly* or an equivalent.
-For 90 students, this represents 45 hours of meetings, which is best tackled by spreading
+These 30-minute one-on-one Zoom sessions were scheduled through *calendly* or an equivalent.
+For 90 students, this effort represents 45 hours of meetings spread 
 over multiple weeks. The in-person workshops also provided an additional opportunity to conduct
 these discussions during the weekend.
 During these sessions, feedback was provided on a draft resume
 and a series of questions were asked to the students. These questions allowed the students to practice
 a good elevator pitch, and to express their preference for a summer internship regarding the
 field of work (e.g., fintech, pharma, defense, machine learning, etc.), the location,
-their mobility, the work model (in-person vs remote), and so on. As importantly,
-these meeting offered an occasion to better know the student and assessed their
+their mobility, the work model (in-person vs remote), and so on. Just as importantly,
+these meetings offered an occasion to better know the students and assess their
 capabilities, constraints, and readiness for employment.
 
 In addition to these planned activities,
-INMAS staff members made themselves available to discuss career choices, guidance on receiving multiple offers,
-guidance on applying to external jobs as needed by soon-to-graduate students. These discussions
-were helpful to us for identifying points that we found ourselves repeating to multiple students and
-integrating them in the regular training material. 
+INMAS staff members made themselves available as needed to discuss career choices, guidance on receiving multiple offers, and 
+guidance on applying to external jobs for soon-to-graduate students. These discussions
+were helpful to us for identifying points that we then found ourselves repeating to multiple students and
+integrating into the regular training material. 
  
 
 ### Technical Training
