@@ -32,7 +32,7 @@ end of the annual program, students were asked to apply broadly for summer inter
 direclty at companies and government organizations, in addition to
 those offered and co-financed by the INMAS program.
 Internships offered by INMAS were arranged through the efforts of
-program coordinators based at the hubs, who contacted regional companies and pitch them
+program coordinators based at the hubs, who contacted regional companies and pitched them
 on participation in the program and coordinated student applications to these internships.
 
 The network structure enabled sharing of resources and best practices, and laid the
