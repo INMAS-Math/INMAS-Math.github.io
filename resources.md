@@ -23,6 +23,7 @@ can be used to host similar contents, having a version control system brings val
 when the material needs updates, and when multiple contributors are involved.
 GitHub is free to use a the time of writing, although contributors will need to be
 familiar with the technology before setting it up and using it.
+- Script, developed by members of our team, used to extract potential internship sites from the SBIR/STTR database.  This script is made available on this GitHub.
 - A web-hosting service to advertise the program and its activities.
 GitHub can also be used to host static web pages, where timely information about the program
 can be posted. At the time of writing, this hosting service is free as well.
@@ -80,7 +81,7 @@ participating in the training sessions
 constituted another important component of the budget.
 
 ### Potential Additional Resources
-We believe that significant potential synergies iwith existing resources
+We believe that significant potential synergies with existing resources
 could be exploited by people looking to set up a program at their institution:
 - The needs identified by INMAS are not unique to mathematics. A very similar situation
 exists in other disciplines, such as physics for example.
