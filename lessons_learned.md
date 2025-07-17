@@ -11,11 +11,24 @@ who were placed in more than 220 different companies.
 
 What key things we observed
 
-- Weekend workshops may not be ideal
-- Self-learning without assessment may not work
-- A need for a point of contact for both students and companies
-- Setting expections for students and companies
-- Encourage student to seek their own internships
-- Building confidence in student is key getting internship
-- Prepare them well for the internship; company culture is very different from academic culture
-- 
+- Recruiting and student participation
+  - Set expectations
+  - Some students lose interest (that's OK, focus on ones who see value in the training and internships)
+- Training
+  - Weekend workshops may not be ideal
+  - Self-learning without assessment may not work
+- Point of contact
+  - It is important to have one person be the point of contact for the students and the companies.
+- Mentoring
+  - Building confidence in student is key getting internship
+  - Work with students on communication skills
+  - Get to know students so that you can confidently refer them to postings
+  - Encourage student to seek their own internships
+- Internship project creation
+  - Set expectation for the companies
+  - No one-size-fits-all method, use all connections you have. 
+- Successful internships
+  - Prepare them well for the internship; company culture is very different from academic culture
+  - Stay in touch with students, ask them to send check-in emails every two weeks.
+- After internships
+  - Maintain contact with company hosts, keep connections warm.
