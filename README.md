@@ -40,6 +40,7 @@ From the perspective of BIG organizations hosting interns, the INMAS program pro
 1. Access to a talent pool that helped industrial R&D succeed and integrate into a regional ecosystem.
 2. Cost-sharing of internships as an incentive for accepting
 interns trained in a discipline from which some organizations would not typically recruit.
+3. Opportunities for company personnel to mentor.
 
 Finally, the INMAS program aimed at shifting the culture in academic institutions
 by demonstrating the benefits of a broader industrial engagement
