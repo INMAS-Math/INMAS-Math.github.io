@@ -23,7 +23,7 @@ can be used to host similar contents, having a version control system brings val
 when the material needs updates, and when multiple contributors are involved.
 GitHub is free to use a the time of writing, although contributors will need to be
 familiar with the technology before setting it up and using it.
-- Script, developed by members of our team, used to extract potential internship sites from the SBIR/STTR database.  This script is made available on this GitHub.
+- Script, developed by members of our team, used to extract potential internship sites from the SBIR/STTR database.  This script is made available on this GitHub and is discussed in more detail under [Industry Outreach and Internship Generation](#industry-outreach-and-internship-generation).
 - A web-hosting service to advertise the program and its activities.
 GitHub can also be used to host static web pages, where timely information about the program
 can be posted. At the time of writing, this hosting service is free as well.
@@ -459,16 +459,8 @@ A description of some of these tasks is available here:
 Outreach to BIG organizations targeted mostly industrial organizations,
 due to their significant relative number and the breadth of opportunities provided.
 
-We found it difficult to integrate into the hiring process of large organizations
-such as government agencies or companies having a large number of employees. 
-Large organizations typically already have well-structured and regulated talent pipelines with which
-it is difficult to establish lasting connections. Their pipelines often include a company-wide internship
-program and on-campus recruiting activities, both of which usually target undergraduate students.
-Moreover, the recruiting personnel in these organizations
-are often technical personnel assigned on a rotation basis, resulting in high personnel turnover,
-and adding to the challenge of establishing lasting relations.
+Our program found the most success in connecting with small businesses.  Large organizations being generally already possessed of robust talent pipelines, and the recruiting personnel at these locations experiencing high rates of turnover, our program found it difficult to both insinuate our operations into these large pre-existing structures and to maintain lasting relationships.  By contrast, our interactions with small businesses were marked by the following advantages:
 
-Reaching out to smaller-size companies was more successful, for the following reasons:
 - Many small organizations have neither an HR department nor a formal internship program. INMAS could offer them 
 a low-cost recruiting service, providing vetted and well-trained students. 
 - Smaller organizations are more inclined to accept external financial support.
@@ -477,14 +469,9 @@ Many were already receiving federal funding through SBIR, and so were familiar w
 Many startups are spin-offs from research or academic groups and have PhD-educated individuals on staff
 who make excellent mentors for interns.
 
-As a result, the INMAS program relied extensively on public information about SBIR grants from the
-Small Business Administration (SBA) of the US government.
-The research topic, company location, and size of the grant were used to create a list of potential hosts.
-Cold-call emails were sent to these companies, introducing our program and proposing a short introductory
-meeting over Zoom for interested parties.
-The conversion rate of these cold contacts was approximately 10%, and a majority
-of the firms with whom we met ended up submitting an internship proposal.
-The contacts emphasized that participation with the program is free, and that there is no obligation on either party. 
+We found particular success connecting with businesses receiving grants from the Small Business Administration (SBA) of the US government through the Small Business Innovatioin Research (SBIR) and Small Business Technology Transfer (STTR) programs.  This roster of businesses is publicly available, and the code developed by our team to pull from that database is available under the “Scripts” folder on this Github page.
+
+We fiiltered potential hosts by location, research topic, and grant size to create our final list of contacts.  We then out first through cold-call emails introducing our program and proposing a short introductory meeting over Zoom for interested parties.  The conversion rate of these cold contacts was approximately 10%, and a majority of firms with whom we met ultimately submitted an internship proposal.  Initial contacts emphasized that participation with the program is free, and that there is no obligation on either party.
 
 Interested companies were asked to submit an internship proposal on a web form hosted on Monday.com.
 The following information was requested:
