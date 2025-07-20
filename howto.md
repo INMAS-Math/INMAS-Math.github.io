@@ -3,7 +3,7 @@
 
 # How to Start an Internship Program in Your Department
 
-__Level 1: The bare bones basics__
+__Level 1: The bare bones program__
 
 * Begin by gathering information and interest, both from others in the department and from students
   * Assess the needs of your department: are your students delayed in finding employment after graduation?
@@ -40,10 +40,11 @@ __Level 1: The bare bones basics__
 
 __Level 2: A local program__
 
-* Fill staff roles.  Roles to be filled:
-  * Event coordinator (most active while coordinating 4 weekend training workshops, best done in-person)
-  * Career support advisor (most active during the fall, working back-and-forth with students between Workshop 2 (November) and Workshop 3 (January)
-  * Internship coordinator (most active during the spring semester from the beginning of February through mid-May)
+This is a version of INMAS running locally in your department and includes (i) organized training, (ii) creation of internship projects, (iii) placement. You will need some level of funding to split-fund the internships with partner companies. Most department provide some support to PhD students in the summer already. This could be your match.
+
+* Create a technical training curriculum, e.g., python bootcamp, statistics, machine learning. This could be run during the semester for credit or off-hours program. Best done in Fall.
+* Engage a career support advisor (most active during the fall, working back-and-forth with students on resumes, also organizing sessions on elevator pitch, informational interviews, interview preparation.
+* You will need someone willing to do cold-calls to companies pitching internship projects. This individual will also serve as internship coordinator (most active during the spring semester from the beginning of February through mid-May).
     
 __Level 3: A regional network__
 
