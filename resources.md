@@ -544,7 +544,7 @@ Feedback and perceptions were also solicited from company representatives and fa
 and staff from participating institutions.
 Brief reports were shared and discussed with INMAS staff throughout the year.
 A final report was submitted at the end of each year.
-The reports and survey instruments are available [here](https://github.com/INMAS-Math/reports).
+The reports and survey instruments are available [here](https://github.com/INMAS-Math/additional_files/annual_reports).
 
 ## Outcomes
 
