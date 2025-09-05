@@ -38,7 +38,7 @@ The annual cost for an academic subscription is about $1,500 per year for 5 user
 If the number of students being tracked
 were less than about 20, in a smaller program,
 then shared spreadsheets could be adequate for record keeping and program administration.
-- Shared file storage for internal memos, program assessments, and other
+- Shared file storage for internal memos, s, and other
 material requiring access from diverse institutions. INMAS used Google Docs, but other
 data sharing platforms can be suitable depending on the members' affiliations and
 IT infrastructure.
@@ -74,7 +74,7 @@ of about $150k for stipends.
 
 The other big-ticket items in the INMAS budget were
 salaries for the program coordinators, payments to the instructors,
-teaching assistants, external consultant for program assessment, and
+teaching assistants, external consultant for , and
 teaching reductions for the PIs.
 Finally, reimbursements for travel, lodging, and meals for students
 participating in the training sessions
@@ -147,7 +147,7 @@ order as they take place in the annual calendar.
 - [Industry Outreach and Internship Generation](#industry-outreach-and-internship-generation)
 - [Matchmaking and Resume Coordination](#matchmaking-and-resume-coordination)
 - [Internship Progress Monitoring](#internship-progress-monitoring)
-- [Program Assessment](#program-assessment)
+- [Program Assessment and Outcomes](#program-assessment-and-outcomes)
 
 
 ### Node Selection and Outreach
@@ -534,7 +534,7 @@ internship, and the other at the end, with the second payment conditional on rec
 were typically 5-10 pages, written in LaTeX or Microsoft Word.
 
 
-### Program Assessment
+### Program Assessment and Outcomes
 The INMAS team worked with an external evaluator throughout the five years of the project.
 The primary focus of the evaluation was to collect data that informed ongoing program improvements,
 and to identify preliminary outcomes.
@@ -545,6 +545,3 @@ and staff from participating institutions.
 Brief reports were shared and discussed with INMAS staff throughout the year.
 A final report was submitted at the end of each year.
 The reports and survey instruments are available [here](https://github.com/INMAS-Math/additional_files/annual_reports).
-
-## Outcomes
-
