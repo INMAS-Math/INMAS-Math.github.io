@@ -247,7 +247,7 @@ the regular curriculum of an institution, the application process could simply
 leverage existing record-keeping systems.
 
 We used the workflow management tool also for the 
-[internship application process](#internship-application-process) and
+internship application process and
 [internship progress monitoring](#internship-progress-monitoring).
 Using Monday's form feature, all student application data were instantly stored in a database,
 easily viewable in aggregate form and linked via the student's email to any future
@@ -544,4 +544,4 @@ Feedback and perceptions were also solicited from company representatives and fa
 and staff from participating institutions.
 Brief reports were shared and discussed with INMAS staff throughout the year.
 A final report was submitted at the end of each year.
-The reports and survey instruments are available [here](https://github.com/INMAS-Math/additional_files/annual_reports).
+The reports and survey instruments are available [here](https://github.com/INMAS-Math/INMAS-Math.github.io/tree/main/additional_files/annual_reports).
